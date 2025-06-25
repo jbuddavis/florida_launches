@@ -1,4 +1,8 @@
 name: Build Cape Launch ICS
+permissions:
+  contents: write        # allow committing & pushing
+  pages: write           # only if you use Pages
+  id-token: write        # only if Pages uses OIDC
 on:
   schedule:
     - cron:  '0 */6 * * *'   # every 6 h (UTC on GitHub runners)
