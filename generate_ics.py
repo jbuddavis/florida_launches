@@ -4,7 +4,7 @@ from datetime import datetime
 from icalendar import Calendar, Event  # pip install icalendar pytz
 
 API_URL = ("https://ll.thespacedevs.com/2.3.0/launches/upcoming/"
-           "?mode=list&format=json&limit=10&location__ids=12,27")
+           "?mode=list&format=json&limit=25&location__ids=12,27")
 
 tz = pytz.timezone("America/New_York")          # East-coast times
 cal = Calendar()
