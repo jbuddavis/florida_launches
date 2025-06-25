@@ -14,13 +14,10 @@ cal.add("version", "2.0")
 for launch in requests.get(API_URL, timeout=30).json()["results"]:
     ev = Event()
     ev.add("summary", launch["name"])
-    ev.add("dtstart", tz.localize(
-        datetime.fromisoformat(launch["window_start"].replace("Z", "+00:00"))))
-    ev.add("dtend",   tz.localize(
-        datetime.fromisoformat(launch["window_end"].replace("Z", "+00:00"))))
-    ev.add("description",
-           (launch.get("mission") or {}).get("description", "No mission info"))
-    ev.add("location", launch["pad"]["name"])
+    ev.add("dtstart", datetime.fromisoformat(launch["window_start"].replace("Z", "+00:00")))
+    ev.add("dtend", datetime.fromisoformat(launch["window_end"].replace("Z", "+00:00")))
+    ev.add("description", (launch.get("status") or {}).get("description", "No mission info"))
+    ev.add("location", "KSC")
     ev["uid"] = f'{launch["id"]}@thespacedevs'   # stable UID per launch
     ev.add("status", launch["status"]["name"])
     cal.add_component(ev)
