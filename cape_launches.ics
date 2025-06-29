@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-34
-DTSTART:20250628T042600Z
-DTEND:20250628T075719Z
-UID:6eec6708-ec59-4e83-94a9-3f861594bb0e@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-25
 DTSTART:20250701T055200Z
 DTEND:20250701T095200Z
@@ -247,6 +237,16 @@ SUMMARY:Atlas V 551 | Project Kuiper (KA-07)
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:ff0a6a32-6513-4e85-9fd8-a2d022add74d@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlas V 551 | Project Kuiper (KA-08)
+DTSTART:20251231T000000Z
+DTEND:20251231T000000Z
+UID:9eb09815-c237-4fdd-9057-5b161131240c@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
