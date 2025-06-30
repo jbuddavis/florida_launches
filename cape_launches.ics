@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-25
-DTSTART:20250701T055200Z
-DTEND:20250701T095200Z
-UID:17500639-e28a-429b-a8cb-02c3f47b3379@thespacedevs
+SUMMARY:Falcon 9 Block 5 | MTG-S1
+DTSTART:20250701T210300Z
+DTEND:20250701T233000Z
+UID:a6317760-1c15-4064-8b1f-fc3f68882a77@thespacedevs
 DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
 LOCATION:KSC
 STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | MTG-S1
-DTSTART:20250701T210300Z
-DTEND:20250701T233000Z
-UID:a6317760-1c15-4064-8b1f-fc3f68882a77@thespacedevs
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-25
+DTSTART:20250702T052900Z
+DTEND:20250702T092900Z
+UID:17500639-e28a-429b-a8cb-02c3f47b3379@thespacedevs
 DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
 LOCATION:KSC
