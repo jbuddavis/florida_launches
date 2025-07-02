@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | MTG-S1
 DTSTART:20250701T210400Z
 DTEND:20250701T233400Z
 UID:a6317760-1c15-4064-8b1f-fc3f68882a77@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-25
