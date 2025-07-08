@@ -4,12 +4,11 @@ PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-28
 DTSTART:20250708T054800Z
-DTEND:20250708T094800Z
+DTEND:20250708T094759Z
 UID:017fa05c-4225-44f1-81f4-94a559547238@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Bandwagon 4 (Dedicated Mid-Inclination Rideshar
