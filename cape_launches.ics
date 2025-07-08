@@ -12,6 +12,26 @@ LOCATION:KSC
 STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Dror-1? ("Commercial GTO 1")
+DTSTART:20250713T043100Z
+DTEND:20250713T084400Z
+UID:d54113f9-985e-4e40-a7e7-dbeb07b85b44@thespacedevs
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
+LOCATION:KSC
+STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Project Kuiper (Falcon 9 #1)
+DTSTART:20250716T060500Z
+DTEND:20250716T060500Z
+UID:fa8460de-5bbc-42fe-8702-47bf5dde5442@thespacedevs
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
+LOCATION:KSC
+STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Bandwagon 4 (Dedicated Mid-Inclination Rideshar
  e)
 DTSTART:20250731T000000Z
@@ -27,16 +47,6 @@ SUMMARY:Falcon 9 Block 5 | Crew-11
 DTSTART:20250731T000000Z
 DTEND:20250731T000000Z
 UID:88b4b179-c4ed-4bd1-868d-ced568a2342a@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Project Kuiper (Falcon 9 #1)
-DTSTART:20250731T000000Z
-DTEND:20250731T000000Z
-UID:fa8460de-5bbc-42fe-8702-47bf5dde5442@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -237,16 +247,6 @@ SUMMARY:Atlas V 551 | Project Kuiper (KA-08)
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:9eb09815-c237-4fdd-9057-5b161131240c@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | 425 Project Flight 5
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:b81dceb4-71a0-41a6-aadd-955c6136b706@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
