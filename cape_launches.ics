@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | Dror-1
 DTSTART:20250713T050400Z
 DTEND:20250713T083400Z
 UID:d54113f9-985e-4e40-a7e7-dbeb07b85b44@thespacedevs
-DESCRIPTION:The launch vehicle has lifted off from the launchpad.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Launch in Flight
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Project Kuiper (KF-01)
