@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Dror-1? ("Commercial GTO 1")
+SUMMARY:Falcon 9 Block 5 | Dror-1
 DTSTART:20250713T050400Z
 DTEND:20250713T083400Z
 UID:d54113f9-985e-4e40-a7e7-dbeb07b85b44@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle has lifted off from the launchpad.
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch in Flight
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Project Kuiper (KF-01)
