@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Dror-1
-DTSTART:20250713T050400Z
-DTEND:20250713T083400Z
-UID:d54113f9-985e-4e40-a7e7-dbeb07b85b44@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Project Kuiper (KF-01)
 DTSTART:20250716T061000Z
 DTEND:20250716T073800Z
@@ -247,6 +237,16 @@ SUMMARY:Falcon 9 Block 5 | 425 Project Flight 5
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:b81dceb4-71a0-41a6-aadd-955c6136b706@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | 5x Astranis MicroGEO
+DTSTART:20251231T000000Z
+DTEND:20251231T000000Z
+UID:9bfa0324-db74-444f-8dc3-1c7d373ca659@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
