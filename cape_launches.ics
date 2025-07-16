@@ -14,8 +14,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | O3b mPower 9-10
 DTSTART:20250721T210000Z
-DTEND:20250722T001300Z
+DTEND:20250721T233000Z
 UID:5221eb56-ccb1-498c-a757-89e34cc099d7@thespacedevs
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
+LOCATION:KSC
+STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-26
+DTSTART:20250724T091200Z
+DTEND:20250724T135400Z
+UID:d4eba3cb-9474-41f9-9618-a90d1c0b7025@thespacedevs
 DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
 LOCATION:KSC
@@ -237,16 +247,6 @@ SUMMARY:Falcon 9 Block 5 | 425 Project Flight 5
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:b81dceb4-71a0-41a6-aadd-955c6136b706@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | 5x Astranis MicroGEO
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:9bfa0324-db74-444f-8dc3-1c7d373ca659@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
