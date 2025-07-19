@@ -3,13 +3,12 @@ VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | O3b mPower 9-10
-DTSTART:20250721T210000Z
-DTEND:20250721T233000Z
+DTSTART:20250721T211200Z
+DTEND:20250721T231200Z
 UID:5221eb56-ccb1-498c-a757-89e34cc099d7@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-26
@@ -33,13 +32,12 @@ STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Crew-11
-DTSTART:20250731T160900Z
-DTEND:20250731T160900Z
+DTSTART:20250731T160920Z
+DTEND:20250731T160920Z
 UID:88b4b179-c4ed-4bd1-868d-ced568a2342a@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Bandwagon 4 (Dedicated Mid-Inclination Rideshar
