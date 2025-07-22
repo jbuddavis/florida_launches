@@ -21,6 +21,16 @@ LOCATION:KSC
 STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-29
+DTSTART:20250728T041500Z
+DTEND:20250728T081500Z
+UID:760cea4c-78f9-4b98-83a5-231fc098c5ab@thespacedevs
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
+LOCATION:KSC
+STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vulcan VC4S | USSF-106
 DTSTART:20250731T000000Z
 DTEND:20250731T000000Z
@@ -235,16 +245,6 @@ SUMMARY:Falcon 9 Block 5 | 425 Project Flight 5
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:b81dceb4-71a0-41a6-aadd-955c6136b706@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | 5x Astranis MicroGEO
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:9bfa0324-db74-444f-8dc3-1c7d373ca659@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
