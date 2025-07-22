@@ -81,6 +81,16 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Project Kuiper (KF-02)
+DTSTART:20250831T000000Z
+DTEND:20250831T000000Z
+UID:594ae0c5-2039-4a1a-a6be-7b0940b2ed2c@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-23
 DTSTART:20250930T000000Z
 DTEND:20250930T000000Z
@@ -235,16 +245,6 @@ SUMMARY:Atlas V 551 | Project Kuiper (KA-08)
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:9eb09815-c237-4fdd-9057-5b161131240c@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | 425 Project Flight 5
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:b81dceb4-71a0-41a6-aadd-955c6136b706@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
