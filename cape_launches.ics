@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | O3b mPower 9-10
-DTSTART:20250721T211200Z
-DTEND:20250721T231200Z
+DTSTART:20250722T211200Z
+DTEND:20250722T231200Z
 UID:5221eb56-ccb1-498c-a757-89e34cc099d7@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
@@ -12,8 +12,8 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-26
-DTSTART:20250724T091200Z
-DTEND:20250724T135400Z
+DTSTART:20250725T085000Z
+DTEND:20250725T125000Z
 UID:d4eba3cb-9474-41f9-9618-a90d1c0b7025@thespacedevs
 DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
