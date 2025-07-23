@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | O3b mPower 9-10
 DTSTART:20250722T211200Z
 DTEND:20250722T231200Z
 UID:5221eb56-ccb1-498c-a757-89e34cc099d7@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-26
