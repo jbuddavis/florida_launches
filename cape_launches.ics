@@ -53,8 +53,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Bandwagon 4 (Dedicated Mid-Inclination Rideshar
  e)
-DTSTART:20250831T000000Z
-DTEND:20250831T000000Z
+DTSTART:20250824T000000Z
+DTEND:20250824T000000Z
 UID:41d2ac1b-a506-47ae-8e44-8b65f5d6f239@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
