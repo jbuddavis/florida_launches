@@ -22,16 +22,6 @@ LOCATION:KSC
 STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vulcan VC4S | USSF-106
-DTSTART:20250731T000000Z
-DTEND:20250731T000000Z
-UID:0c5642f3-24ae-4879-a8e9-981ad36a8911@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Crew-11
 DTSTART:20250731T160920Z
 DTEND:20250731T160920Z
@@ -76,6 +66,16 @@ SUMMARY:Falcon 9 Block 5 | Project Kuiper (KF-02)
 DTSTART:20250831T000000Z
 DTEND:20250831T000000Z
 UID:594ae0c5-2039-4a1a-a6be-7b0940b2ed2c@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan VC4S | USSF-106
+DTSTART:20250831T000000Z
+DTEND:20250831T000000Z
+UID:0c5642f3-24ae-4879-a8e9-981ad36a8911@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
