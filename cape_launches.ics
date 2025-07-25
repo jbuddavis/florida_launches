@@ -29,21 +29,21 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Bandwagon 4 (Dedicated Mid-Inclination Rideshar
- e)
-DTSTART:20250824T000000Z
-DTEND:20250824T000000Z
-UID:41d2ac1b-a506-47ae-8e44-8b65f5d6f239@thespacedevs
+SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-33
+DTSTART:20250821T000000Z
+DTEND:20250821T000000Z
+UID:e8e93778-657c-401c-9c88-3cd4c7c45c9d@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-33
-DTSTART:20250831T000000Z
-DTEND:20250831T000000Z
-UID:e8e93778-657c-401c-9c88-3cd4c7c45c9d@thespacedevs
+SUMMARY:Falcon 9 Block 5 | Bandwagon 4 (Dedicated Mid-Inclination Rideshar
+ e)
+DTSTART:20250824T000000Z
+DTEND:20250824T000000Z
+UID:41d2ac1b-a506-47ae-8e44-8b65f5d6f239@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
