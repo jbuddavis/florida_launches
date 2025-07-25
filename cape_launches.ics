@@ -6,20 +6,18 @@ SUMMARY:Falcon 9 Block 5 | Starlink Group 10-26
 DTSTART:20250726T082800Z
 DTEND:20250726T122800Z
 UID:d4eba3cb-9474-41f9-9618-a90d1c0b7025@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-29
 DTSTART:20250730T033000Z
-DTEND:20250730T081200Z
+DTEND:20250730T073000Z
 UID:760cea4c-78f9-4b98-83a5-231fc098c5ab@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Crew-11
