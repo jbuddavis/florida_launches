@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-26
-DTSTART:20250726T082800Z
-DTEND:20250726T122800Z
-UID:d4eba3cb-9474-41f9-9618-a90d1c0b7025@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-29
 DTSTART:20250730T033000Z
 DTEND:20250730T073000Z
@@ -245,6 +235,16 @@ SUMMARY:Falcon 9 Block 5 | 425 Project Flight 5
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:b81dceb4-71a0-41a6-aadd-955c6136b706@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | 5x Astranis MicroGEO
+DTSTART:20251231T000000Z
+DTEND:20251231T000000Z
+UID:9bfa0324-db74-444f-8dc3-1c7d373ca659@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
