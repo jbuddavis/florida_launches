@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | Starlink Group 10-29
 DTSTART:20250730T033000Z
 DTEND:20250730T073000Z
 UID:760cea4c-78f9-4b98-83a5-231fc098c5ab@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Crew-11
@@ -57,17 +58,6 @@ DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
 LOCATION:KSC
 STATUS:To Be Confirmed
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Bandwagon 4 (Dedicated Mid-Inclination Rideshar
- e)
-DTSTART:20250824T000000Z
-DTEND:20250824T000000Z
-UID:41d2ac1b-a506-47ae-8e44-8b65f5d6f239@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Nusantara Lima
@@ -244,6 +234,16 @@ SUMMARY:Atlas V 551 | Project Kuiper (KA-08)
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:9eb09815-c237-4fdd-9057-5b161131240c@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | 425 Project Flight 5
+DTSTART:20251231T000000Z
+DTEND:20251231T000000Z
+UID:b81dceb4-71a0-41a6-aadd-955c6136b706@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
