@@ -13,8 +13,8 @@ STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Crew-11
-DTSTART:20250731T160920Z
-DTEND:20250731T160920Z
+DTSTART:20250731T160924Z
+DTEND:20250731T160924Z
 UID:88b4b179-c4ed-4bd1-868d-ced568a2342a@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
@@ -28,6 +28,16 @@ UID:ebaf6c77-6f86-4d54-bf4e-137d0dc2c235@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Project Kuiper (KF-02)
+DTSTART:20250807T134000Z
+DTEND:20250807T151300Z
+UID:594ae0c5-2039-4a1a-a6be-7b0940b2ed2c@thespacedevs
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
+LOCATION:KSC
+STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vulcan VC4S | USSF-106
@@ -64,16 +74,6 @@ SUMMARY:Falcon 9 Block 5 | Nusantara Lima
 DTSTART:20250831T000000Z
 DTEND:20250831T000000Z
 UID:84a2a107-1e44-4994-ad9f-430ee81a741a@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Project Kuiper (KF-02)
-DTSTART:20250831T000000Z
-DTEND:20250831T000000Z
-UID:594ae0c5-2039-4a1a-a6be-7b0940b2ed2c@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
