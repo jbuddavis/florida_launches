@@ -31,13 +31,12 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Project Kuiper (KF-02)
-DTSTART:20250807T134000Z
-DTEND:20250807T151300Z
+DTSTART:20250807T140100Z
+DTEND:20250807T142800Z
 UID:594ae0c5-2039-4a1a-a6be-7b0940b2ed2c@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vulcan VC4S | USSF-106
