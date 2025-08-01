@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | Crew-11
 DTSTART:20250801T154342Z
 DTEND:20250801T154342Z
 UID:88b4b179-c4ed-4bd1-868d-ced568a2342a@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-30
@@ -29,14 +30,33 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-20
+DTSTART:20250810T121600Z
+DTEND:20250810T161600Z
+UID:e369a238-2746-4400-9396-62e8b7a660c5@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vulcan VC4S | USSF-106
-DTSTART:20250809T001500Z
-DTEND:20250809T022000Z
+DTSTART:20250811T000700Z
+DTEND:20250811T021200Z
 UID:0c5642f3-24ae-4879-a8e9-981ad36a8911@thespacedevs
 DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
 LOCATION:KSC
 STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-11
+DTSTART:20250813T000000Z
+DTEND:20250813T000000Z
+UID:a2f73993-79f6-4228-bebc-0ada6840e503@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | OTV-8 (X-37B) (USSF-36)
@@ -113,16 +133,6 @@ SUMMARY:New Glenn | EscaPADE
 DTSTART:20250930T000000Z
 DTEND:20250930T000000Z
 UID:9c950919-5d11-4a79-a4f1-be7387678c0a@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vulcan VC4L | Dream Chaser CRS 2 Flight 1
-DTSTART:20250930T000000Z
-DTEND:20250930T000000Z
-UID:a67b40f9-cfcc-4614-a355-a156280b4bb3@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -233,16 +243,6 @@ SUMMARY:Falcon 9 Block 5 | 425 Project Flight 5
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:b81dceb4-71a0-41a6-aadd-955c6136b706@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | 5x Astranis MicroGEO
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:9bfa0324-db74-444f-8dc3-1c7d373ca659@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
