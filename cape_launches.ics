@@ -60,8 +60,8 @@ STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-33
-DTSTART:20250821T080000Z
-DTEND:20250821T080000Z
+DTSTART:20250821T075700Z
+DTEND:20250821T075700Z
 UID:e8e93778-657c-401c-9c88-3cd4c7c45c9d@thespacedevs
 DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
