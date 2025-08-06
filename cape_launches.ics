@@ -21,13 +21,12 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vulcan VC4S | USSF-106
-DTSTART:20250811T000700Z
-DTEND:20250811T021200Z
+DTSTART:20250812T235900Z
+DTEND:20250813T020400Z
 UID:0c5642f3-24ae-4879-a8e9-981ad36a8911@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-11
@@ -99,16 +98,6 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlas V 551 | ViaSat-3 EMEA
-DTSTART:20250930T000000Z
-DTEND:20250930T000000Z
-UID:47deaaf0-40d9-4400-bd92-4cabf1da5791@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:New Glenn | EscaPADE
 DTSTART:20250930T000000Z
 DTEND:20250930T000000Z
@@ -153,6 +142,16 @@ SUMMARY:Vulcan | USSF-57
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:b32689fe-b156-4ccd-b824-fd555d12ba24@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlas V 551 | ViaSat-3 EMEA
+DTSTART:20251231T000000Z
+DTEND:20251231T000000Z
+UID:47deaaf0-40d9-4400-bd92-4cabf1da5791@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
