@@ -158,6 +158,16 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | 8 x Globalstar-3
+DTSTART:20251231T000000Z
+DTEND:20251231T000000Z
+UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Project Kuiper (KA-03)
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
@@ -232,16 +242,6 @@ SUMMARY:Falcon 9 Block 5 | 5x Astranis MicroGEO
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:9bfa0324-db74-444f-8dc3-1c7d373ca659@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | 8 x Globalstar-3
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
