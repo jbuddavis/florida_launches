@@ -6,9 +6,9 @@ SUMMARY:Vulcan VC4S | USSF-106
 DTSTART:20250812T235900Z
 DTEND:20250813T005900Z
 UID:0c5642f3-24ae-4879-a8e9-981ad36a8911@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle has lifted off from the launchpad.
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch in Flight
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-20
