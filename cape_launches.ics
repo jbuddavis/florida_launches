@@ -6,9 +6,10 @@ SUMMARY:Vulcan VC4S | USSF-106
 DTSTART:20250812T235900Z
 DTEND:20250813T005900Z
 UID:0c5642f3-24ae-4879-a8e9-981ad36a8911@thespacedevs
-DESCRIPTION:The launch vehicle has lifted off from the launchpad.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Launch in Flight
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-20
@@ -46,6 +47,16 @@ UID:e8e93778-657c-401c-9c88-3cd4c7c45c9d@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlas V 551 | Project Kuiper (KA-03)
+DTSTART:20250930T000000Z
+DTEND:20250930T000000Z
+UID:9f6d8a5a-f77c-42ff-b377-91628862ae59@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-23
@@ -152,16 +163,6 @@ SUMMARY:Falcon 9 Block 5 | 8 x Globalstar-3
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atlas V 551 | Project Kuiper (KA-03)
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:9f6d8a5a-f77c-42ff-b377-91628862ae59@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
