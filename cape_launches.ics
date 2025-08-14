@@ -6,18 +6,10 @@ SUMMARY:Falcon 9 Block 5 | Starlink Group 10-20
 DTSTART:20250814T104700Z
 DTEND:20250814T144700Z
 UID:e369a238-2746-4400-9396-62e8b7a660c5@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Go for Launch
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-11
-DTSTART:20250816T113500Z
-DTEND:20250816T153500Z
-UID:a2f73993-79f6-4228-bebc-0ada6840e503@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
-LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | OTV-8 (X-37B) (USSF-36)
@@ -37,6 +29,16 @@ UID:e8e93778-657c-401c-9c88-3cd4c7c45c9d@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-11
+DTSTART:20250826T000000Z
+DTEND:20250826T000000Z
+UID:a2f73993-79f6-4228-bebc-0ada6840e503@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Project Kuiper (KA-03)
