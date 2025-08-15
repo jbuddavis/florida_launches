@@ -41,6 +41,16 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:New Glenn | EscaPADE
+DTSTART:20250929T000000Z
+DTEND:20250929T000000Z
+UID:9c950919-5d11-4a79-a4f1-be7387678c0a@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Project Kuiper (KA-03)
 DTSTART:20250930T000000Z
 DTEND:20250930T000000Z
@@ -85,16 +95,6 @@ SUMMARY:Falcon 9 Block 5 | Nusantara Lima
 DTSTART:20250930T000000Z
 DTEND:20250930T000000Z
 UID:84a2a107-1e44-4994-ad9f-430ee81a741a@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New Glenn | EscaPADE
-DTSTART:20250930T000000Z
-DTEND:20250930T000000Z
-UID:9c950919-5d11-4a79-a4f1-be7387678c0a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
