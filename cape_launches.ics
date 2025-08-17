@@ -3,13 +3,13 @@ VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | OTV-8 (X-37B) (USSF-36)
-DTSTART:20250821T000000Z
-DTEND:20250821T000000Z
+DTSTART:20250822T034000Z
+DTEND:20250822T080300Z
 UID:2d5f2335-c3c2-4306-9dde-8ec37f348ccf@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
 LOCATION:KSC
-STATUS:To Be Determined
+STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-33
@@ -22,13 +22,12 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-11
-DTSTART:20250827T000000Z
-DTEND:20250827T000000Z
+DTSTART:20250827T054900Z
+DTEND:20250827T094900Z
 UID:a2f73993-79f6-4228-bebc-0ada6840e503@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Determined
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Glenn | EscaPADE
