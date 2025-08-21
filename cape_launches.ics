@@ -12,8 +12,8 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-33
-DTSTART:20250824T064500Z
-DTEND:20250824T064500Z
+DTSTART:20250824T064509Z
+DTEND:20250824T064509Z
 UID:e8e93778-657c-401c-9c88-3cd4c7c45c9d@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
@@ -47,6 +47,16 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | IMAP & others
+DTSTART:20250923T000000Z
+DTEND:20250923T000000Z
+UID:689d7129-10fa-4df9-b81e-2b8fb926bbaf@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:New Glenn | EscaPADE
 DTSTART:20250929T000000Z
 DTEND:20250929T000000Z
@@ -71,16 +81,6 @@ SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-23
 DTSTART:20250930T000000Z
 DTEND:20250930T000000Z
 UID:3bfed6d5-d65e-4133-b51a-b664bbd9d006@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | IMAP & others
-DTSTART:20250930T000000Z
-DTEND:20250930T000000Z
-UID:689d7129-10fa-4df9-b81e-2b8fb926bbaf@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
