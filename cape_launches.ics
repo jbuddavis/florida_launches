@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | OTV-8 (X-37B) (USSF-36)
 DTSTART:20250822T034000Z
 DTEND:20250822T074000Z
 UID:2d5f2335-c3c2-4306-9dde-8ec37f348ccf@thespacedevs
-DESCRIPTION:Deployment of the payload(s) has been confirmed.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Payload Deployed
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-33
@@ -47,6 +48,16 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-23
+DTSTART:20250915T220000Z
+DTEND:20250915T220000Z
+UID:3bfed6d5-d65e-4133-b51a-b664bbd9d006@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | IMAP & others
 DTSTART:20250923T000000Z
 DTEND:20250923T000000Z
@@ -71,16 +82,6 @@ SUMMARY:Atlas V 551 | Project Kuiper (KA-03)
 DTSTART:20250930T000000Z
 DTEND:20250930T000000Z
 UID:9f6d8a5a-f77c-42ff-b377-91628862ae59@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-23
-DTSTART:20250930T000000Z
-DTEND:20250930T000000Z
-UID:3bfed6d5-d65e-4133-b51a-b664bbd9d006@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
