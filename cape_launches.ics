@@ -48,6 +48,16 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Nusantara Lima
+DTSTART:20250908T000000Z
+DTEND:20250908T000000Z
+UID:84a2a107-1e44-4994-ad9f-430ee81a741a@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-23
 DTSTART:20250915T220000Z
 DTEND:20250915T220000Z
@@ -92,16 +102,6 @@ SUMMARY:Falcon 9 Block 5 | KOMPSAT-7A
 DTSTART:20250930T000000Z
 DTEND:20250930T000000Z
 UID:9642cfef-4687-495a-af2e-2ac81fa1e12a@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Nusantara Lima
-DTSTART:20250930T000000Z
-DTEND:20250930T000000Z
-UID:84a2a107-1e44-4994-ad9f-430ee81a741a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
