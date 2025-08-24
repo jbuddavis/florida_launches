@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-33
 DTSTART:20250824T064536Z
 DTEND:20250824T064536Z
 UID:e8e93778-657c-401c-9c88-3cd4c7c45c9d@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-11
