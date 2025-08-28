@@ -31,6 +31,16 @@ LOCATION:KSC
 STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-57
+DTSTART:20250904T111800Z
+DTEND:20250904T151800Z
+UID:03ecf869-f49d-4a0a-aa25-fb4377128e52@thespacedevs
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
+LOCATION:KSC
+STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Nusantara Lima
 DTSTART:20250908T000000Z
 DTEND:20250908T000000Z
@@ -235,16 +245,6 @@ SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #2
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:53769468-bfd3-45c7-a52b-46a68ed7510f@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #3
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:c3f48f48-0e0a-4bca-917e-de494cfca35b@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
