@@ -59,20 +59,20 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New Glenn | EscaPADE
-DTSTART:20250929T000000Z
-DTEND:20250929T000000Z
-UID:9c950919-5d11-4a79-a4f1-be7387678c0a@thespacedevs
+SUMMARY:Atlas V 551 | Project Kuiper (KA-03)
+DTSTART:20250925T000000Z
+DTEND:20250925T000000Z
+UID:9f6d8a5a-f77c-42ff-b377-91628862ae59@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlas V 551 | Project Kuiper (KA-03)
-DTSTART:20250930T000000Z
-DTEND:20250930T000000Z
-UID:9f6d8a5a-f77c-42ff-b377-91628862ae59@thespacedevs
+SUMMARY:New Glenn | EscaPADE
+DTSTART:20250929T000000Z
+DTEND:20250929T000000Z
+UID:9c950919-5d11-4a79-a4f1-be7387678c0a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -119,16 +119,6 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vulcan | USSF-57
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:b32689fe-b156-4ccd-b824-fd555d12ba24@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Atlas V 551 | ViaSat-3 EMEA
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
@@ -163,36 +153,6 @@ SUMMARY:Atlas V 551 | Project Kuiper (KA-05)
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:8a9f7ce9-4ab5-4227-95f1-9f328def8828@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atlas V 551 | Project Kuiper (KA-06)
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:7e89e423-6f47-40a0-b075-c6fc1d9cf228@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atlas V 551 | Project Kuiper (KA-07)
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:ff0a6a32-6513-4e85-9fd8-a2d022add74d@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atlas V 551 | Project Kuiper (KA-08)
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:9eb09815-c237-4fdd-9057-5b161131240c@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -243,6 +203,46 @@ SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #3
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:c3f48f48-0e0a-4bca-917e-de494cfca35b@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Project Kuiper (KF-03)
+DTSTART:20251231T000000Z
+DTEND:20251231T000000Z
+UID:88d03398-af55-4bca-967e-bfe868a3cbf5@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | USSF-31
+DTSTART:20251231T000000Z
+DTEND:20251231T000000Z
+UID:4c78e865-8f03-4f47-a081-b507da270d19@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Glenn | Blue Moon Pathfinder
+DTSTART:20251231T000000Z
+DTEND:20251231T000000Z
+UID:98ec4234-8c4e-4365-b6c5-6b89da53f8dd@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unknown | Owlet-01
+DTSTART:20251231T000000Z
+DTEND:20251231T000000Z
+UID:b3a7aacd-4f23-45a8-aa6c-da9f34804452@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
