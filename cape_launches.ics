@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | Starlink Group 10-14
 DTSTART:20250831T111500Z
 DTEND:20250831T151500Z
 UID:e0427db4-5314-4766-9471-0c70859beb7a@thespacedevs
-DESCRIPTION:The launch vehicle has lifted off from the launchpad.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Launch in Flight
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-22
