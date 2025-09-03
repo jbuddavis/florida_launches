@@ -21,13 +21,13 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Nusantara Lima
-DTSTART:20250908T000000Z
-DTEND:20250908T000000Z
+DTSTART:20250908T235200Z
+DTEND:20250909T025100Z
 UID:84a2a107-1e44-4994-ad9f-430ee81a741a@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
 LOCATION:KSC
-STATUS:To Be Determined
+STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-23
