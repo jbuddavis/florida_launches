@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | Starlink Group 10-57
 DTSTART:20250905T105600Z
 DTEND:20250905T145600Z
 UID:03ecf869-f49d-4a0a-aa25-fb4377128e52@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Nusantara Lima
@@ -21,8 +22,8 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-23
-DTSTART:20250915T214900Z
-DTEND:20250915T214900Z
+DTSTART:20250914T221100Z
+DTEND:20250914T221100Z
 UID:3bfed6d5-d65e-4133-b51a-b664bbd9d006@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
