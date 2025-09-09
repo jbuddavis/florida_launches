@@ -4,7 +4,7 @@ PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Nusantara Lima
 DTSTART:20250909T000200Z
-DTEND:20250909T015800Z
+DTEND:20250909T015400Z
 UID:84a2a107-1e44-4994-ad9f-430ee81a741a@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
@@ -24,10 +24,9 @@ SUMMARY:Falcon 9 Block 5 | IMAP & others
 DTSTART:20250923T113200Z
 DTEND:20250923T113200Z
 UID:689d7129-10fa-4df9-b81e-2b8fb926bbaf@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Project Kuiper (KA-03)
