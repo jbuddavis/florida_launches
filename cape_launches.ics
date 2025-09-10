@@ -20,6 +20,15 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-61
+DTSTART:20250918T093000Z
+DTEND:20250918T133000Z
+UID:09678f8e-d3e5-4e26-87c1-d9b9141c1f61@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | IMAP & others
 DTSTART:20250923T113200Z
 DTEND:20250923T113200Z
@@ -33,16 +42,6 @@ SUMMARY:Atlas V 551 | Project Kuiper (KA-03)
 DTSTART:20250925T000000Z
 DTEND:20250925T000000Z
 UID:9f6d8a5a-f77c-42ff-b377-91628862ae59@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | KOMPSAT-7A
-DTSTART:20250930T000000Z
-DTEND:20250930T000000Z
-UID:9642cfef-4687-495a-af2e-2ac81fa1e12a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -63,6 +62,16 @@ SUMMARY:Atlas V 551 | ViaSat-3 EMEA
 DTSTART:20251031T000000Z
 DTEND:20251031T000000Z
 UID:47deaaf0-40d9-4400-bd92-4cabf1da5791@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | KOMPSAT-7A
+DTSTART:20251130T000000Z
+DTEND:20251130T000000Z
+UID:9642cfef-4687-495a-af2e-2ac81fa1e12a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -233,16 +242,6 @@ SUMMARY:Unknown | VCLS Demo 2 Mission One
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:581d1d85-bbe8-48f1-9dac-5b4e63503896@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vulcan | GPS III SV10
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:2c5686ec-b0fd-4987-935d-587e3c85fa2d@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
