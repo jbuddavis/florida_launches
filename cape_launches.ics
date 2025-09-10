@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Nusantara Lima
-DTSTART:20250910T000100Z
-DTEND:20250910T015700Z
+DTSTART:20250911T000000Z
+DTEND:20250911T015500Z
 UID:84a2a107-1e44-4994-ad9f-430ee81a741a@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
@@ -24,6 +24,15 @@ SUMMARY:Falcon 9 Block 5 | Starlink Group 10-61
 DTSTART:20250918T093000Z
 DTEND:20250918T133000Z
 UID:09678f8e-d3e5-4e26-87c1-d9b9141c1f61@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-27
+DTSTART:20250921T092000Z
+DTEND:20250921T132000Z
+UID:161ca0fe-fef2-40a3-88f8-de777c7fc895@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
@@ -232,16 +241,6 @@ SUMMARY:Unknown | Owlet-01
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:b3a7aacd-4f23-45a8-aa6c-da9f34804452@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unknown | VCLS Demo 2 Mission One
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:581d1d85-bbe8-48f1-9dac-5b4e63503896@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
