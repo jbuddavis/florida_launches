@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | Nusantara Lima
 DTSTART:20250911T235900Z
 DTEND:20250912T015600Z
 UID:84a2a107-1e44-4994-ad9f-430ee81a741a@thespacedevs
-DESCRIPTION:Deployment of the payload(s) has been confirmed.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Payload Deployed
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-23
