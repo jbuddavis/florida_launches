@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Nusantara Lima
-DTSTART:20250911T235900Z
-DTEND:20250912T015600Z
-UID:84a2a107-1e44-4994-ad9f-430ee81a741a@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-23 (S.S. William “Willie” C
  . McCool)
 DTSTART:20250914T221149Z
@@ -243,6 +233,16 @@ SUMMARY:Unknown | Owlet-01
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:b3a7aacd-4f23-45a8-aa6c-da9f34804452@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unknown | VCLS Demo 2 Mission One
+DTSTART:20251231T000000Z
+DTEND:20251231T000000Z
+UID:581d1d85-bbe8-48f1-9dac-5b4e63503896@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
