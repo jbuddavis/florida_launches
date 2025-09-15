@@ -7,9 +7,10 @@ SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-23 (S.S. William “Willie” C
 DTSTART:20250914T221148Z
 DTEND:20250914T221148Z
 UID:3bfed6d5-d65e-4133-b51a-b664bbd9d006@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-61
