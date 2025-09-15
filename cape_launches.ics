@@ -40,15 +40,6 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-15
-DTSTART:20250924T083600Z
-DTEND:20250924T123600Z
-UID:c717d2b5-e39c-45a3-9f89-ce73526852eb@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
-LOCATION:KSC
-STATUS:Go for Launch
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Project Kuiper (KA-03)
 DTSTART:20250925T000000Z
 DTEND:20250925T000000Z
@@ -57,6 +48,15 @@ DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
 STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-15
+DTSTART:20250925T083600Z
+DTEND:20250925T123600Z
+UID:c717d2b5-e39c-45a3-9f89-ce73526852eb@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | SpainSat NG II
