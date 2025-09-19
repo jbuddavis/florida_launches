@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-61
-DTSTART:20250918T093000Z
-DTEND:20250918T133000Z
-UID:09678f8e-d3e5-4e26-87c1-d9b9141c1f61@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-27
 DTSTART:20250921T092000Z
 DTEND:20250921T132000Z
@@ -242,6 +232,16 @@ SUMMARY:Unknown | VCLS Demo 2 Mission One
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:581d1d85-bbe8-48f1-9dac-5b4e63503896@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unknown | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)
+DTSTART:20251231T000000Z
+DTEND:20251231T000000Z
+UID:4cc237b2-c61a-491e-9532-466cce81f524@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
