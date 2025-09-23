@@ -33,6 +33,15 @@ SUMMARY:Falcon 9 Block 5 | Starlink Group 10-59
 DTSTART:20250928T073000Z
 DTEND:20250928T113000Z
 UID:a99bb1eb-514b-4a93-ac49-5e14f273f250@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Project Kuiper (KF-03)
+DTSTART:20251001T044800Z
+DTEND:20251001T080500Z
+UID:88d03398-af55-4bca-967e-bfe868a3cbf5@thespacedevs
 DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
 LOCATION:KSC
@@ -53,16 +62,6 @@ SUMMARY:Atlas V 551 | ViaSat-3 F2 (ViaSat-3 EMEA)
 DTSTART:20251031T000000Z
 DTEND:20251031T000000Z
 UID:47deaaf0-40d9-4400-bd92-4cabf1da5791@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Project Kuiper (KF-03)
-DTSTART:20251031T000000Z
-DTEND:20251031T000000Z
-UID:88d03398-af55-4bca-967e-bfe868a3cbf5@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
