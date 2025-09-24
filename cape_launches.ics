@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | IMAP & others
 DTSTART:20250924T113035Z
 DTEND:20250924T113050Z
 UID:689d7129-10fa-4df9-b81e-2b8fb926bbaf@thespacedevs
-DESCRIPTION:The launch vehicle has lifted off from the launchpad.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Launch in Flight
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-15
@@ -68,6 +69,16 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:New Glenn | EscaPADE
+DTSTART:20251031T000000Z
+DTEND:20251031T000000Z
+UID:9c950919-5d11-4a79-a4f1-be7387678c0a@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | KOMPSAT-7A
 DTSTART:20251130T000000Z
 DTEND:20251130T000000Z
@@ -102,16 +113,6 @@ SUMMARY:Falcon 9 Block 5 | 8 x Globalstar-3
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New Glenn | EscaPADE
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:9c950919-5d11-4a79-a4f1-be7387678c0a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
