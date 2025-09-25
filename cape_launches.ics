@@ -2,32 +2,23 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | IMAP & others
-DTSTART:20250924T113035Z
-DTEND:20250924T113050Z
-UID:689d7129-10fa-4df9-b81e-2b8fb926bbaf@thespacedevs
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-15
+DTSTART:20250925T083600Z
+DTEND:20250925T123600Z
+UID:c717d2b5-e39c-45a3-9f89-ce73526852eb@thespacedevs
 DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
  he target orbit(s).
 LOCATION:KSC
 STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-15
-DTSTART:20250925T083600Z
-DTEND:20250925T123600Z
-UID:c717d2b5-e39c-45a3-9f89-ce73526852eb@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
-LOCATION:KSC
-STATUS:Go for Launch
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Project Kuiper (KA-03)
 DTSTART:20250925T120900Z
 DTEND:20250925T123800Z
 UID:9f6d8a5a-f77c-42ff-b377-91628862ae59@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle has lifted off from the launchpad.
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch in Flight
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-59
@@ -243,6 +234,16 @@ SUMMARY:Unknown | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:4cc237b2-c61a-491e-9532-466cce81f524@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan | GPS III SV10
+DTSTART:20251231T000000Z
+DTEND:20251231T000000Z
+UID:2c5686ec-b0fd-4987-935d-587e3c85fa2d@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
