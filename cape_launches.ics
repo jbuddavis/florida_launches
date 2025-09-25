@@ -16,9 +16,10 @@ SUMMARY:Atlas V 551 | Project Kuiper (KA-03)
 DTSTART:20250925T120900Z
 DTEND:20250925T123800Z
 UID:9f6d8a5a-f77c-42ff-b377-91628862ae59@thespacedevs
-DESCRIPTION:The launch vehicle has lifted off from the launchpad.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Launch in Flight
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-59
