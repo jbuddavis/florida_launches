@@ -2,26 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-15
-DTSTART:20250925T083600Z
-DTEND:20250925T123600Z
-UID:c717d2b5-e39c-45a3-9f89-ce73526852eb@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atlas V 551 | Project Kuiper (KA-03)
-DTSTART:20250925T120900Z
-DTEND:20250925T123800Z
-UID:9f6d8a5a-f77c-42ff-b377-91628862ae59@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Project Kuiper (KF-03)
 DTSTART:20251001T044800Z
 DTEND:20251001T080500Z
@@ -245,6 +225,26 @@ SUMMARY:Vulcan | GPS III SV10
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:2c5686ec-b0fd-4987-935d-587e3c85fa2d@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan | USSF-87
+DTSTART:20251231T000000Z
+DTEND:20251231T000000Z
+UID:550f778d-6c2d-41fc-b182-6f0cd8feda93@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan VC4L | Dream Chaser CRS 2 Flight 1
+DTSTART:20251231T000000Z
+DTEND:20251231T000000Z
+UID:a67b40f9-cfcc-4614-a355-a156280b4bb3@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
