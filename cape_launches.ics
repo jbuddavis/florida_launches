@@ -22,15 +22,6 @@ LOCATION:KSC
 STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-59
-DTSTART:20250928T073000Z
-DTEND:20250928T113000Z
-UID:a99bb1eb-514b-4a93-ac49-5e14f273f250@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
-LOCATION:KSC
-STATUS:Go for Launch
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Project Kuiper (KF-03)
 DTSTART:20251001T044800Z
 DTEND:20251001T080500Z
@@ -39,6 +30,15 @@ DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
 LOCATION:KSC
 STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-59
+DTSTART:20251001T062300Z
+DTEND:20251001T102300Z
+UID:a99bb1eb-514b-4a93-ac49-5e14f273f250@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | SpainSat NG II
