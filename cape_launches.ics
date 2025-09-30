@@ -2,9 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-59
+DTSTART:20251006T043200Z
+DTEND:20251006T083200Z
+UID:a99bb1eb-514b-4a93-ac49-5e14f273f250@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Project Kuiper (KF-03)
-DTSTART:20251004T034300Z
-DTEND:20251004T070000Z
+DTSTART:20251007T022900Z
+DTEND:20251007T054600Z
 UID:88d03398-af55-4bca-967e-bfe868a3cbf5@thespacedevs
 DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
@@ -12,18 +21,9 @@ LOCATION:KSC
 STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-59
-DTSTART:20251004T051700Z
-DTEND:20251004T091700Z
-UID:a99bb1eb-514b-4a93-ac49-5e14f273f250@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
-LOCATION:KSC
-STATUS:Go for Launch
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-52
-DTSTART:20251007T100100Z
-DTEND:20251007T140100Z
+DTSTART:20251010T085500Z
+DTEND:20251010T125500Z
 UID:02348ca1-d937-441b-86fe-5002275907db@thespacedevs
 DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
