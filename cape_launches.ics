@@ -12,8 +12,8 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Project Kuiper (KF-03)
-DTSTART:20251007T022900Z
-DTEND:20251007T054600Z
+DTSTART:20251009T014600Z
+DTEND:20251009T050300Z
 UID:88d03398-af55-4bca-967e-bfe868a3cbf5@thespacedevs
 DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
@@ -22,8 +22,8 @@ STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-52
-DTSTART:20251010T085500Z
-DTEND:20251010T125500Z
+DTSTART:20251012T081100Z
+DTEND:20251012T121100Z
 UID:02348ca1-d937-441b-86fe-5002275907db@thespacedevs
 DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
