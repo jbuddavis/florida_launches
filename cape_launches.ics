@@ -30,6 +30,16 @@ LOCATION:KSC
 STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-17
+DTSTART:20251015T162100Z
+DTEND:20251015T202100Z
+UID:ed145de1-b768-43b5-8563-18ebc93b69b5@thespacedevs
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
+LOCATION:KSC
+STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | SpainSat NG II
 DTSTART:20251022T000000Z
 DTEND:20251022T000000Z
@@ -234,16 +244,6 @@ SUMMARY:Vulcan | GPS III SV10
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:2c5686ec-b0fd-4987-935d-587e3c85fa2d@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vulcan | USSF-87
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:550f778d-6c2d-41fc-b182-6f0cd8feda93@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
