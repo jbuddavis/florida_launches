@@ -58,6 +58,16 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:New Glenn | EscaPADE
+DTSTART:20251109T000000Z
+DTEND:20251109T000000Z
+UID:9c950919-5d11-4a79-a4f1-be7387678c0a@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Bandwagon 4 (Dedicated Mid-Inclination Rideshar
  e)
 DTSTART:20251130T000000Z
@@ -73,16 +83,6 @@ SUMMARY:Falcon 9 Block 5 | KOMPSAT-7A
 DTSTART:20251130T000000Z
 DTEND:20251130T000000Z
 UID:9642cfef-4687-495a-af2e-2ac81fa1e12a@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New Glenn | EscaPADE
-DTSTART:20251130T000000Z
-DTEND:20251130T000000Z
-UID:9c950919-5d11-4a79-a4f1-be7387678c0a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
