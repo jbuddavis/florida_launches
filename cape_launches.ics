@@ -39,6 +39,15 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-21
+DTSTART:20251018T170200Z
+DTEND:20251018T210200Z
+UID:5707ddea-8f06-4a3b-83d1-cfd8a3017637@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | SpainSat NG II
 DTSTART:20251022T000000Z
 DTEND:20251022T000000Z
@@ -234,16 +243,6 @@ SUMMARY:Unknown | VCLS Demo 2 Mission One
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:581d1d85-bbe8-48f1-9dac-5b4e63503896@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unknown | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:4cc237b2-c61a-491e-9532-466cce81f524@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
