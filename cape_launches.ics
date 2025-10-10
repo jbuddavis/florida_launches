@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Project Kuiper (KF-03)
-DTSTART:20251012T005100Z
-DTEND:20251012T030500Z
+DTSTART:20251012T004100Z
+DTEND:20251012T031500Z
 UID:88d03398-af55-4bca-967e-bfe868a3cbf5@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
@@ -12,8 +12,8 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-52
-DTSTART:20251012T081100Z
-DTEND:20251012T121100Z
+DTSTART:20251014T072600Z
+DTEND:20251014T112600Z
 UID:02348ca1-d937-441b-86fe-5002275907db@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
@@ -21,8 +21,8 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-17
-DTSTART:20251015T162100Z
-DTEND:20251015T202100Z
+DTSTART:20251017T153700Z
+DTEND:20251017T193700Z
 UID:ed145de1-b768-43b5-8563-18ebc93b69b5@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
@@ -30,12 +30,13 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-21
-DTSTART:20251018T170200Z
-DTEND:20251018T210200Z
+DTSTART:20251020T000000Z
+DTEND:20251020T000000Z
 UID:5707ddea-8f06-4a3b-83d1-cfd8a3017637@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | SpainSat NG II
