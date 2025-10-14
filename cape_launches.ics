@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | Project Kuiper (KF-03)
 DTSTART:20251014T000800Z
 DTEND:20251014T022200Z
 UID:88d03398-af55-4bca-967e-bfe868a3cbf5@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-52
