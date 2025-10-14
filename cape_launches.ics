@@ -40,12 +40,13 @@ STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-21
-DTSTART:20251022T153300Z
-DTEND:20251022T193300Z
+DTSTART:20251025T000000Z
+DTEND:20251025T000000Z
 UID:5707ddea-8f06-4a3b-83d1-cfd8a3017637@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V 551 | ViaSat-3 F2 (ViaSat-3 EMEA)
