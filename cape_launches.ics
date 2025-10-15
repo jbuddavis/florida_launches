@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Project Kuiper (KF-03)
-DTSTART:20251014T000800Z
-DTEND:20251014T022200Z
-UID:88d03398-af55-4bca-967e-bfe868a3cbf5@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-52
 DTSTART:20251016T064200Z
 DTEND:20251016T104200Z
@@ -31,13 +21,13 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | SpainSat NG II
-DTSTART:20251022T000000Z
-DTEND:20251022T000000Z
+DTSTART:20251023T013000Z
+DTEND:20251023T013000Z
 UID:6ecd1d24-db6d-4144-8e1b-f6ba5ceae8be@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
 LOCATION:KSC
-STATUS:To Be Determined
+STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-21
@@ -244,6 +234,16 @@ SUMMARY:Unknown | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:4cc237b2-c61a-491e-9532-466cce81f524@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan | GPS III SV10
+DTSTART:20251231T000000Z
+DTEND:20251231T000000Z
+UID:2c5686ec-b0fd-4987-935d-587e3c85fa2d@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
