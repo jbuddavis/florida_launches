@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | Starlink Group 10-52
 DTSTART:20251016T064200Z
 DTEND:20251016T104200Z
 UID:02348ca1-d937-441b-86fe-5002275907db@thespacedevs
-DESCRIPTION:The launch vehicle has lifted off from the launchpad.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Launch in Flight
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-17
@@ -33,6 +34,15 @@ SUMMARY:Falcon 9 Block 5 | Starlink Group 10-21
 DTSTART:20251025T142700Z
 DTEND:20251025T182700Z
 UID:5707ddea-8f06-4a3b-83d1-cfd8a3017637@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-37
+DTSTART:20251028T131400Z
+DTEND:20251028T171400Z
+UID:94ec1605-bd9c-47fa-9f36-69148ee4e370@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
@@ -233,16 +243,6 @@ SUMMARY:Unknown | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:4cc237b2-c61a-491e-9532-466cce81f524@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vulcan | GPS III SV10
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:2c5686ec-b0fd-4987-935d-587e3c85fa2d@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
