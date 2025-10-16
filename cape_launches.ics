@@ -6,9 +6,9 @@ SUMMARY:Falcon 9 Block 5 | Starlink Group 10-52
 DTSTART:20251016T064200Z
 DTEND:20251016T104200Z
 UID:02348ca1-d937-441b-86fe-5002275907db@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle has lifted off from the launchpad.
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch in Flight
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-17
