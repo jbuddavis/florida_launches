@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-52
-DTSTART:20251016T064200Z
-DTEND:20251016T104200Z
-UID:02348ca1-d937-441b-86fe-5002275907db@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-17
 DTSTART:20251019T145200Z
 DTEND:20251019T185200Z
@@ -243,6 +233,16 @@ SUMMARY:Vulcan | GPS III SV10
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:2c5686ec-b0fd-4987-935d-587e3c85fa2d@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan | USSF-87
+DTSTART:20251231T000000Z
+DTEND:20251231T000000Z
+UID:550f778d-6c2d-41fc-b182-6f0cd8feda93@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
