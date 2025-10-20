@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-17
-DTSTART:20251019T145200Z
-DTEND:20251019T185200Z
-UID:ed145de1-b768-43b5-8563-18ebc93b69b5@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | SpainSat NG II
 DTSTART:20251023T013000Z
 DTEND:20251023T051900Z
@@ -248,5 +238,15 @@ DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
 STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SLS Block 1 | Artemis II
+DTSTART:20260206T010900Z
+DTEND:20260206T014100Z
+UID:41699701-2ef4-4b0c-ac9d-6757820cde87@thespacedevs
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
+LOCATION:KSC
+STATUS:To Be Confirmed
 END:VEVENT
 END:VCALENDAR
