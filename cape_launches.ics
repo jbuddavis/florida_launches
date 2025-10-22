@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | SpainSat NG II
-DTSTART:20251023T013000Z
-DTEND:20251023T053000Z
+DTSTART:20251024T013000Z
+DTEND:20251024T053000Z
 UID:6ecd1d24-db6d-4144-8e1b-f6ba5ceae8be@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
@@ -12,8 +12,8 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-21
-DTSTART:20251025T142700Z
-DTEND:20251025T182700Z
+DTSTART:20251026T140500Z
+DTEND:20251026T180500Z
 UID:5707ddea-8f06-4a3b-83d1-cfd8a3017637@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
@@ -30,13 +30,12 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V 551 | ViaSat-3 F2 (ViaSat-3 EMEA)
-DTSTART:20251031T000000Z
-DTEND:20251031T000000Z
+DTSTART:20251104T033600Z
+DTEND:20251104T042000Z
 UID:47deaaf0-40d9-4400-bd92-4cabf1da5791@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Determined
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Glenn | EscaPADE
