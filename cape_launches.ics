@@ -60,16 +60,6 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | KOMPSAT-7A
-DTSTART:20251130T000000Z
-DTEND:20251130T000000Z
-UID:9642cfef-4687-495a-af2e-2ac81fa1e12a@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vulcan | GPS III SV09
 DTSTART:20251130T000000Z
 DTEND:20251130T000000Z
@@ -248,5 +238,15 @@ DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
 LOCATION:KSC
 STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan | USSF-57
+DTSTART:20260331T000000Z
+DTEND:20260331T000000Z
+UID:b32689fe-b156-4ccd-b824-fd555d12ba24@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
 END:VEVENT
 END:VCALENDAR
