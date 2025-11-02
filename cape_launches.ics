@@ -7,9 +7,10 @@ SUMMARY:Falcon 9 Block 5 | Bandwagon 4 (Dedicated Mid-Inclination Rideshar
 DTSTART:20251102T050000Z
 DTEND:20251102T060300Z
 UID:41d2ac1b-a506-47ae-8e44-8b65f5d6f239@thespacedevs
-DESCRIPTION:The launch vehicle has lifted off from the launchpad.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Launch in Flight
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-81
