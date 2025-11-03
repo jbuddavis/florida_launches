@@ -20,6 +20,16 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:New Glenn | EscaPADE
+DTSTART:20251107T195100Z
+DTEND:20251107T215000Z
+UID:9c950919-5d11-4a79-a4f1-be7387678c0a@thespacedevs
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
+LOCATION:KSC
+STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-51
 DTSTART:20251108T083000Z
 DTEND:20251108T123000Z
@@ -27,16 +37,6 @@ UID:29e88f09-8897-4014-afa0-087ca70de9bd@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New Glenn | EscaPADE
-DTSTART:20251109T000000Z
-DTEND:20251109T000000Z
-UID:9c950919-5d11-4a79-a4f1-be7387678c0a@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-87
