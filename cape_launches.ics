@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Bandwagon 4 (Dedicated Mid-Inclination Rideshar
- e)
-DTSTART:20251102T050000Z
-DTEND:20251102T060300Z
-UID:41d2ac1b-a506-47ae-8e44-8b65f5d6f239@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-81
 DTSTART:20251105T230800Z
 DTEND:20251106T030800Z
@@ -244,5 +233,15 @@ DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
 STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SLS Block 1 | Artemis II
+DTSTART:20260206T010900Z
+DTEND:20260206T014100Z
+UID:41699701-2ef4-4b0c-ac9d-6757820cde87@thespacedevs
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
+LOCATION:KSC
+STATUS:To Be Confirmed
 END:VEVENT
 END:VCALENDAR
