@@ -31,12 +31,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Glenn | EscaPADE
 DTSTART:20251109T194500Z
-DTEND:20251109T214400Z
+DTEND:20251109T221100Z
 UID:9c950919-5d11-4a79-a4f1-be7387678c0a@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-87
