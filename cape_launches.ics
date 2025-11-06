@@ -6,14 +6,15 @@ SUMMARY:Falcon 9 Block 5 | Starlink Group 6-81
 DTSTART:20251105T230800Z
 DTEND:20251106T030800Z
 UID:9dd2d2b7-302b-4e9e-804c-aa176f606b6f@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V 551 | ViaSat-3 F2 (ViaSat-3 EMEA)
-DTSTART:20251106T032400Z
-DTEND:20251106T040800Z
+DTSTART:20251107T031600Z
+DTEND:20251107T040000Z
 UID:47deaaf0-40d9-4400-bd92-4cabf1da5791@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
