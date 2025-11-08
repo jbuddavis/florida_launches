@@ -3,12 +3,13 @@ VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-51
-DTSTART:20251108T083000Z
-DTEND:20251108T123000Z
+DTSTART:20251109T000000Z
+DTEND:20251109T000000Z
 UID:29e88f09-8897-4014-afa0-087ca70de9bd@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Glenn | EscaPADE
