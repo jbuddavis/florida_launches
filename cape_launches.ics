@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | Starlink Group 10-51
 DTSTART:20251109T081000Z
 DTEND:20251109T121000Z
 UID:29e88f09-8897-4014-afa0-087ca70de9bd@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Glenn | EscaPADE
@@ -58,8 +59,8 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-94
-DTSTART:20251118T110000Z
-DTEND:20251118T150000Z
+DTSTART:20251118T232900Z
+DTEND:20251119T032900Z
 UID:d124e85e-ee0f-4ab2-9be6-fd31516ddee9@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
