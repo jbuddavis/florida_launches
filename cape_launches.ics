@@ -14,7 +14,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Glenn | EscaPADE
 DTSTART:20251109T194500Z
-DTEND:20251109T221100Z
+DTEND:20251109T211300Z
 UID:9c950919-5d11-4a79-a4f1-be7387678c0a@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
@@ -157,16 +157,6 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New Glenn | Blue Moon Pathfinder
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:98ec4234-8c4e-4365-b6c5-6b89da53f8dd@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Unknown | Owlet-01
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
@@ -211,6 +201,16 @@ SUMMARY:Vulcan | USSF-87
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:550f778d-6c2d-41fc-b182-6f0cd8feda93@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Glenn | Blue Moon Pathfinder
+DTSTART:20260131T000000Z
+DTEND:20260131T000000Z
+UID:98ec4234-8c4e-4365-b6c5-6b89da53f8dd@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
