@@ -2,23 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:New Glenn | EscaPADE
-DTSTART:20251112T195000Z
-DTEND:20251112T211700Z
-UID:9c950919-5d11-4a79-a4f1-be7387678c0a@thespacedevs
+SUMMARY:Atlas V 551 | ViaSat-3 F2 (ViaSat-3 EMEA)
+DTSTART:20251114T030400Z
+DTEND:20251114T034800Z
+UID:47deaaf0-40d9-4400-bd92-4cabf1da5791@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atlas V 551 | ViaSat-3 F2 (ViaSat-3 EMEA)
-DTSTART:20251114T030000Z
-DTEND:20251114T045600Z
-UID:47deaaf0-40d9-4400-bd92-4cabf1da5791@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
-LOCATION:KSC
-STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-85
@@ -46,6 +36,16 @@ UID:d124e85e-ee0f-4ab2-9be6-fd31516ddee9@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Glenn | EscaPADE
+DTSTART:20251130T000000Z
+DTEND:20251130T000000Z
+UID:9c950919-5d11-4a79-a4f1-be7387678c0a@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vulcan | GPS III SV09
