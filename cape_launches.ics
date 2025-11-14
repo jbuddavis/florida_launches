@@ -16,9 +16,10 @@ SUMMARY:Atlas V 551 | ViaSat-3 F2 (ViaSat-3 EMEA)
 DTSTART:20251114T030400Z
 DTEND:20251114T034800Z
 UID:47deaaf0-40d9-4400-bd92-4cabf1da5791@thespacedevs
-DESCRIPTION:The launch vehicle has lifted off from the launchpad.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Launch in Flight
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-85
@@ -98,30 +99,10 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlas V 551 | Project Kuiper (KA-05)
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:8a9f7ce9-4ab5-4227-95f1-9f328def8828@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | 5x Astranis MicroGEO
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:9bfa0324-db74-444f-8dc3-1c7d373ca659@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Axiom Space Mission 5
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:de3d5d91-f115-4a86-b923-203a91a08735@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -242,6 +223,26 @@ SUMMARY:Falcon 9 Block 5 | MRV-1
 DTSTART:20260331T000000Z
 DTEND:20260331T000000Z
 UID:0f6780cf-edae-4d7c-99d6-ce7de784d140@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan | WGS-11
+DTSTART:20260331T000000Z
+DTEND:20260331T000000Z
+UID:649bf8ed-f2a6-4923-aaf0-6086ad0227f5@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Haven-1
+DTSTART:20260531T000000Z
+DTEND:20260531T000000Z
+UID:4cc61288-6f94-41de-8fd5-7fe4d72aedfb@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
