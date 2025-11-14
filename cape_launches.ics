@@ -129,26 +129,6 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unknown | Owlet-01
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:b3a7aacd-4f23-45a8-aa6c-da9f34804452@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unknown | VCLS Demo 2 Mission One
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:581d1d85-bbe8-48f1-9dac-5b4e63503896@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Unknown | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
@@ -243,6 +223,26 @@ SUMMARY:Falcon 9 Block 5 | Haven-1
 DTSTART:20260531T000000Z
 DTEND:20260531T000000Z
 UID:4cc61288-6f94-41de-8fd5-7fe4d72aedfb@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Vast-1
+DTSTART:20260630T000000Z
+DTEND:20260630T000000Z
+UID:99875c7b-400c-40e2-b16c-bb9b2a02a0d8@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | CHORUS
+DTSTART:20260630T000000Z
+DTEND:20260630T000000Z
+UID:8bf5f61e-a7e1-41e6-aede-7b87e4beebab@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
