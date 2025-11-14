@@ -6,9 +6,9 @@ SUMMARY:New Glenn | EscaPADE
 DTSTART:20251113T195700Z
 DTEND:20251113T212500Z
 UID:9c950919-5d11-4a79-a4f1-be7387678c0a@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:Deployment of the payload(s) has been confirmed.
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Payload Deployed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V 551 | ViaSat-3 F2 (ViaSat-3 EMEA)
@@ -45,6 +45,26 @@ UID:d124e85e-ee0f-4ab2-9be6-fd31516ddee9@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 6-78
+DTSTART:20251120T190500Z
+DTEND:20251120T230500Z
+UID:f0554c45-3e52-43bb-95e5-73aa8fab53dd@thespacedevs
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
+LOCATION:KSC
+STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 6-79
+DTSTART:20251122T234100Z
+DTEND:20251123T034100Z
+UID:3a22283a-4521-429c-bf45-0d53aa0fcff3@thespacedevs
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
+LOCATION:KSC
+STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vulcan | GPS III SV09
@@ -221,26 +241,6 @@ SUMMARY:Falcon 9 Block 5 | MRV-1
 DTSTART:20260331T000000Z
 DTEND:20260331T000000Z
 UID:0f6780cf-edae-4d7c-99d6-ce7de784d140@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vulcan | WGS-11
-DTSTART:20260331T000000Z
-DTEND:20260331T000000Z
-UID:649bf8ed-f2a6-4923-aaf0-6086ad0227f5@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Haven-1
-DTSTART:20260531T000000Z
-DTEND:20260531T000000Z
-UID:4cc61288-6f94-41de-8fd5-7fe4d72aedfb@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
