@@ -6,18 +6,19 @@ SUMMARY:New Glenn | EscaPADE
 DTSTART:20251113T195700Z
 DTEND:20251113T212500Z
 UID:9c950919-5d11-4a79-a4f1-be7387678c0a@thespacedevs
-DESCRIPTION:Deployment of the payload(s) has been confirmed.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Payload Deployed
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V 551 | ViaSat-3 F2 (ViaSat-3 EMEA)
 DTSTART:20251114T030400Z
 DTEND:20251114T034800Z
 UID:47deaaf0-40d9-4400-bd92-4cabf1da5791@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle has lifted off from the launchpad.
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch in Flight
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-85
