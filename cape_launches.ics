@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:New Glenn | EscaPADE
-DTSTART:20251113T195700Z
-DTEND:20251113T212500Z
-UID:9c950919-5d11-4a79-a4f1-be7387678c0a@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Atlas V 551 | ViaSat-3 F2 (ViaSat-3 EMEA)
 DTSTART:20251114T030400Z
 DTEND:20251114T034800Z
@@ -22,19 +12,19 @@ LOCATION:KSC
 STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 6-85
+SUMMARY:Falcon 9 Block 5 | Starlink Group 6-89
 DTSTART:20251115T030100Z
 DTEND:20251115T070100Z
-UID:098173dc-9630-4954-ac95-bd0ec221074e@thespacedevs
+UID:fdb8c931-b1ec-441e-b0ce-75f7a8799189@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 6-89
+SUMMARY:Falcon 9 Block 5 | Starlink Group 6-85
 DTSTART:20251115T030100Z
 DTEND:20251115T070100Z
-UID:fdb8c931-b1ec-441e-b0ce-75f7a8799189@thespacedevs
+UID:098173dc-9630-4954-ac95-bd0ec221074e@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
@@ -239,10 +229,20 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | CHORUS
+SUMMARY:Atlas V N22 | Starliner-2
 DTSTART:20260630T000000Z
 DTEND:20260630T000000Z
-UID:8bf5f61e-a7e1-41e6-aede-7b87e4beebab@thespacedevs
+UID:29c2b843-540d-40da-b200-d4892d74e140@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | 8 x Globalstar-3
+DTSTART:20260630T000000Z
+DTEND:20260630T000000Z
+UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
