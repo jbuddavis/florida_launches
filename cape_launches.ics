@@ -12,23 +12,21 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-78
-DTSTART:20251120T190500Z
-DTEND:20251120T230500Z
+DTSTART:20251121T030100Z
+DTEND:20251121T070100Z
 UID:f0554c45-3e52-43bb-95e5-73aa8fab53dd@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-79
-DTSTART:20251122T234100Z
-DTEND:20251123T034100Z
+DTSTART:20251122T065900Z
+DTEND:20251122T105900Z
 UID:3a22283a-4521-429c-bf45-0d53aa0fcff3@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vulcan | GPS III SV09
