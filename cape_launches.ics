@@ -40,6 +40,16 @@ LOCATION:KSC
 STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 6-95
+DTSTART:20251202T201600Z
+DTEND:20251203T001600Z
+UID:d1ee3587-a7f7-455c-9dc3-1624352262b4@thespacedevs
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
+LOCATION:KSC
+STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vulcan VC6L | Project Kuiper (KV-01)
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
@@ -234,16 +244,6 @@ SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-34
 DTSTART:20260630T000000Z
 DTEND:20260630T000000Z
 UID:e60aa241-1f2c-4459-ba94-2f576c3e5632@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon Heavy | Griffin Mission One
-DTSTART:20260731T000000Z
-DTEND:20260731T000000Z
-UID:d3bd7fb2-fac6-49fc-ae52-cee07d2fde67@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
