@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 6-94
-DTSTART:20251118T232900Z
-DTEND:20251119T032900Z
-UID:d124e85e-ee0f-4ab2-9be6-fd31516ddee9@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-78
 DTSTART:20251121T030100Z
 DTEND:20251121T070100Z
@@ -244,6 +234,16 @@ SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-34
 DTSTART:20260630T000000Z
 DTEND:20260630T000000Z
 UID:e60aa241-1f2c-4459-ba94-2f576c3e5632@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon Heavy | Griffin Mission One
+DTSTART:20260731T000000Z
+DTEND:20260731T000000Z
+UID:d3bd7fb2-fac6-49fc-ae52-cee07d2fde67@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
