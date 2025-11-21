@@ -20,16 +20,6 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vulcan | GPS III SV09
-DTSTART:20251130T000000Z
-DTEND:20251130T000000Z
-UID:98f70f28-397a-4c0d-aeb2-e7f8a88e0323@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-86
 DTSTART:20251130T201100Z
 DTEND:20251201T001100Z
@@ -48,6 +38,16 @@ DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
 LOCATION:KSC
 STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan | GPS III SV09
+DTSTART:20251231T000000Z
+DTEND:20251231T000000Z
+UID:98f70f28-397a-4c0d-aeb2-e7f8a88e0323@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vulcan VC6L | Project Kuiper (KV-01)
@@ -150,6 +150,16 @@ LOCATION:KSC
 STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Crew-12
+DTSTART:20260215T000000Z
+DTEND:20260215T000000Z
+UID:862b54e3-7bf8-48e5-8cd1-d77257d5fde9@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vulcan | USSF-57
 DTSTART:20260331T000000Z
 DTEND:20260331T000000Z
@@ -234,16 +244,6 @@ SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-24
 DTSTART:20260630T000000Z
 DTEND:20260630T000000Z
 UID:5ed6ab75-8c5b-4013-93e1-1deb56b14f1d@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-34
-DTSTART:20260630T000000Z
-DTEND:20260630T000000Z
-UID:e60aa241-1f2c-4459-ba94-2f576c3e5632@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
