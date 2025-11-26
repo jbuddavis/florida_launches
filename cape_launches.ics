@@ -29,6 +29,15 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | NROL-77
+DTSTART:20251209T191600Z
+DTEND:20251209T191600Z
+UID:c203e807-0955-4e32-abfe-d5c71cdf5c31@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Amazon Leo (LA-04)
 DTSTART:20251215T085200Z
 DTEND:20251215T085200Z
@@ -232,16 +241,6 @@ SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-24
 DTSTART:20260630T000000Z
 DTEND:20260630T000000Z
 UID:5ed6ab75-8c5b-4013-93e1-1deb56b14f1d@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-34
-DTSTART:20260630T000000Z
-DTEND:20260630T000000Z
-UID:e60aa241-1f2c-4459-ba94-2f576c3e5632@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
