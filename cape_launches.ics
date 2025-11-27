@@ -47,26 +47,6 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vulcan | GPS III SV09
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:98f70f28-397a-4c0d-aeb2-e7f8a88e0323@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vulcan VC6L | Amazon Leo (LV-01)
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:ef9850ad-1096-425b-9d27-f7bbd186e61a@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | 5x Astranis MicroGEO
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
@@ -101,26 +81,6 @@ SUMMARY:Unknown | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:4cc237b2-c61a-491e-9532-466cce81f524@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vulcan | GPS III SV10
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:2c5686ec-b0fd-4987-935d-587e3c85fa2d@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vulcan | USSF-87
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:550f778d-6c2d-41fc-b182-6f0cd8feda93@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -171,6 +131,36 @@ SUMMARY:Falcon 9 Block 5 | MRV-1
 DTSTART:20260331T000000Z
 DTEND:20260331T000000Z
 UID:0f6780cf-edae-4d7c-99d6-ce7de784d140@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan | GPS III SV09
+DTSTART:20260331T000000Z
+DTEND:20260331T000000Z
+UID:98f70f28-397a-4c0d-aeb2-e7f8a88e0323@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan | USSF-87
+DTSTART:20260331T000000Z
+DTEND:20260331T000000Z
+UID:550f778d-6c2d-41fc-b182-6f0cd8feda93@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan VC6L | Amazon Leo (LV-01)
+DTSTART:20260331T000000Z
+DTEND:20260331T000000Z
+UID:ef9850ad-1096-425b-9d27-f7bbd186e61a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -241,6 +231,16 @@ SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-24
 DTSTART:20260630T000000Z
 DTEND:20260630T000000Z
 UID:5ed6ab75-8c5b-4013-93e1-1deb56b14f1d@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-34
+DTSTART:20260630T000000Z
+DTEND:20260630T000000Z
+UID:e60aa241-1f2c-4459-ba94-2f576c3e5632@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
