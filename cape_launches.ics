@@ -20,6 +20,16 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 6-90
+DTSTART:20251211T185900Z
+DTEND:20251211T225900Z
+UID:bea05b91-9cfa-48da-8fe0-c85c902f25ee@thespacedevs
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
+LOCATION:KSC
+STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Amazon Leo (LA-04)
 DTSTART:20251215T083500Z
 DTEND:20251215T083500Z
@@ -33,16 +43,6 @@ SUMMARY:Falcon 9 Block 5 | 5x Astranis MicroGEO
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
 UID:9bfa0324-db74-444f-8dc3-1c7d373ca659@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #2
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:53769468-bfd3-45c7-a52b-46a68ed7510f@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -103,6 +103,16 @@ SUMMARY:Vulcan | USSF-57
 DTSTART:20260331T000000Z
 DTEND:20260331T000000Z
 UID:b32689fe-b156-4ccd-b824-fd555d12ba24@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #2
+DTSTART:20260331T000000Z
+DTEND:20260331T000000Z
+UID:53769468-bfd3-45c7-a52b-46a68ed7510f@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -233,16 +243,6 @@ SUMMARY:Falcon Heavy | Griffin Mission One
 DTSTART:20260731T000000Z
 DTEND:20260731T000000Z
 UID:d3bd7fb2-fac6-49fc-ae52-cee07d2fde67@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer C
-DTSTART:20261031T000000Z
-DTEND:20261031T000000Z
-UID:542a51bb-2351-48b9-98c5-9db130fb4c29@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
