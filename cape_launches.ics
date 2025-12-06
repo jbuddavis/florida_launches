@@ -29,6 +29,24 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 6-99
+DTSTART:20251214T133700Z
+DTEND:20251214T173700Z
+UID:9d12fbac-53de-4517-9191-4697fbc07dd2@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 6-82
+DTSTART:20251215T024300Z
+DTEND:20251215T064300Z
+UID:49e52470-1dd4-45a9-b549-cfb417031823@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Amazon Leo (LA-04)
 DTSTART:20251215T083500Z
 DTEND:20251215T083500Z
@@ -222,26 +240,6 @@ SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-24
 DTSTART:20260630T000000Z
 DTEND:20260630T000000Z
 UID:5ed6ab75-8c5b-4013-93e1-1deb56b14f1d@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-34
-DTSTART:20260630T000000Z
-DTEND:20260630T000000Z
-UID:e60aa241-1f2c-4459-ba94-2f576c3e5632@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon Heavy | Griffin Mission One
-DTSTART:20260731T000000Z
-DTEND:20260731T000000Z
-UID:d3bd7fb2-fac6-49fc-ae52-cee07d2fde67@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
