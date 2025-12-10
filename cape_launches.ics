@@ -48,14 +48,24 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-36
-DTSTART:20251219T224600Z
-DTEND:20251220T024600Z
-UID:57cc5e9e-97c2-4833-8bcd-e4e62ce63ec6@thespacedevs
+SUMMARY:Falcon 9 Block 5 | Starlink Group 6-88
+DTSTART:20251219T050000Z
+DTEND:20251219T090000Z
+UID:ae315ab0-ecda-4c54-99c6-0a8818f55b0d@thespacedevs
 DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
 LOCATION:KSC
 STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-36
+DTSTART:20251231T000000Z
+DTEND:20251231T000000Z
+UID:57cc5e9e-97c2-4833-8bcd-e4e62ce63ec6@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | 5x Astranis MicroGEO
@@ -232,16 +242,6 @@ SUMMARY:Falcon 9 Block 5 | 8 x Globalstar-3
 DTSTART:20260630T000000Z
 DTEND:20260630T000000Z
 UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-24
-DTSTART:20260630T000000Z
-DTEND:20260630T000000Z
-UID:5ed6ab75-8c5b-4013-93e1-1deb56b14f1d@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
