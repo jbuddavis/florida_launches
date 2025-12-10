@@ -2,38 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 6-92
-DTSTART:20251208T211400Z
-DTEND:20251209T011400Z
-UID:c1fb73cf-ad9a-4305-bd11-d61fff369afe@thespacedevs
+SUMMARY:Falcon 9 Block 5 | NROL-77
+DTSTART:20251209T191625Z
+DTEND:20251209T191625Z
+UID:c203e807-0955-4e32-abfe-d5c71cdf5c31@thespacedevs
 DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
  he target orbit(s).
 LOCATION:KSC
 STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | NROL-77
-DTSTART:20251209T191625Z
-DTEND:20251209T191625Z
-UID:c203e807-0955-4e32-abfe-d5c71cdf5c31@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
-LOCATION:KSC
-STATUS:Go for Launch
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-90
 DTSTART:20251211T185900Z
 DTEND:20251211T225900Z
 UID:bea05b91-9cfa-48da-8fe0-c85c902f25ee@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
-LOCATION:KSC
-STATUS:Go for Launch
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 6-99
-DTSTART:20251214T133700Z
-DTEND:20251214T173700Z
-UID:9d12fbac-53de-4517-9191-4697fbc07dd2@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
@@ -52,6 +34,15 @@ SUMMARY:Atlas V 551 | Amazon Leo (LA-04)
 DTSTART:20251215T084900Z
 DTEND:20251215T091800Z
 UID:0dcbd5ee-2728-4c79-8dc5-051ea11b888f@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 6-99
+DTSTART:20251215T131100Z
+DTEND:20251215T171100Z
+UID:9d12fbac-53de-4517-9191-4697fbc07dd2@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
@@ -241,6 +232,16 @@ SUMMARY:Falcon 9 Block 5 | 8 x Globalstar-3
 DTSTART:20260630T000000Z
 DTEND:20260630T000000Z
 UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-24
+DTSTART:20260630T000000Z
+DTEND:20260630T000000Z
+UID:5ed6ab75-8c5b-4013-93e1-1deb56b14f1d@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
