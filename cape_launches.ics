@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | NROL-77
-DTSTART:20251209T191625Z
-DTEND:20251209T191625Z
-UID:c203e807-0955-4e32-abfe-d5c71cdf5c31@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-90
 DTSTART:20251211T185900Z
 DTEND:20251211T225900Z
@@ -50,12 +40,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-88
 DTSTART:20251219T050000Z
-DTEND:20251219T090000Z
+DTEND:20251219T081700Z
 UID:ae315ab0-ecda-4c54-99c6-0a8818f55b0d@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-36
@@ -202,6 +191,16 @@ SUMMARY:Atlas V N22 | Starliner-1
 DTSTART:20260430T000000Z
 DTEND:20260430T000000Z
 UID:07e945c1-2ec6-4d29-a500-1afbe920440f@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-34
+DTSTART:20260531T000000Z
+DTEND:20260531T000000Z
+UID:e60aa241-1f2c-4459-ba94-2f576c3e5632@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
