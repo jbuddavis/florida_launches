@@ -6,24 +6,24 @@ SUMMARY:Falcon 9 Block 5 | Starlink Group 6-82
 DTSTART:20251215T024300Z
 DTEND:20251215T064300Z
 UID:49e52470-1dd4-45a9-b549-cfb417031823@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle has lifted off from the launchpad.
 LOCATION:KSC
-STATUS:Go for Launch
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 6-99
-DTSTART:20251215T131100Z
-DTEND:20251215T171100Z
-UID:9d12fbac-53de-4517-9191-4697fbc07dd2@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
-LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch in Flight
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Amazon Leo (LA-04)
 DTSTART:20251216T082800Z
 DTEND:20251216T085700Z
 UID:0dcbd5ee-2728-4c79-8dc5-051ea11b888f@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 6-99
+DTSTART:20251216T124500Z
+DTEND:20251216T164500Z
+UID:9d12fbac-53de-4517-9191-4697fbc07dd2@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
