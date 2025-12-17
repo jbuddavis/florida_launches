@@ -2,42 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Atlas V 551 | Amazon Leo (LA-04)
-DTSTART:20251216T082800Z
-DTEND:20251216T085700Z
-UID:0dcbd5ee-2728-4c79-8dc5-051ea11b888f@thespacedevs
+SUMMARY:Falcon 9 Block 5 | Starlink Group 6-99
+DTSTART:20251217T121900Z
+DTEND:20251217T161900Z
+UID:9d12fbac-53de-4517-9191-4697fbc07dd2@thespacedevs
 DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
  he target orbit(s).
 LOCATION:KSC
 STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 6-99
-DTSTART:20251217T121900Z
-DTEND:20251217T161900Z
-UID:9d12fbac-53de-4517-9191-4697fbc07dd2@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-36
+DTSTART:20251219T224600Z
+DTEND:20251220T024600Z
+UID:57cc5e9e-97c2-4833-8bcd-e4e62ce63ec6@thespacedevs
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-88
-DTSTART:20251220T050000Z
-DTEND:20251220T081700Z
+DTSTART:20251221T050000Z
+DTEND:20251221T081700Z
 UID:ae315ab0-ecda-4c54-99c6-0a8818f55b0d@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-36
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:57cc5e9e-97c2-4833-8bcd-e4e62ce63ec6@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Unknown | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)
@@ -244,6 +235,16 @@ SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer C
 DTSTART:20261031T000000Z
 DTEND:20261031T000000Z
 UID:542a51bb-2351-48b9-98c5-9db130fb4c29@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D
+DTSTART:20261031T000000Z
+DTEND:20261031T000000Z
+UID:71df1dd0-d658-4762-b0bc-0fca6886aea7@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
