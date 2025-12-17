@@ -40,16 +40,6 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | USSF-31
-DTSTART:20251231T000000Z
-DTEND:20251231T000000Z
-UID:4c78e865-8f03-4f47-a081-b507da270d19@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Unknown | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)
 DTSTART:20251231T000000Z
 DTEND:20251231T000000Z
@@ -244,6 +234,16 @@ SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-35
 DTSTART:20260831T000000Z
 DTEND:20260831T000000Z
 UID:bf2c3027-a314-403e-a416-2bfd5d165ad1@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer C
+DTSTART:20261031T000000Z
+DTEND:20261031T000000Z
+UID:542a51bb-2351-48b9-98c5-9db130fb4c29@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
