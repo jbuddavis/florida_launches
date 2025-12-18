@@ -2,33 +2,23 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 6-99
-DTSTART:20251217T121900Z
-DTEND:20251217T161900Z
-UID:9d12fbac-53de-4517-9191-4697fbc07dd2@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-36
-DTSTART:20251219T224600Z
-DTEND:20251220T024600Z
-UID:57cc5e9e-97c2-4833-8bcd-e4e62ce63ec6@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
-LOCATION:KSC
-STATUS:To Be Confirmed
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-88
-DTSTART:20251221T050000Z
-DTEND:20251221T081700Z
+DTSTART:20251228T050000Z
+DTEND:20251228T081700Z
 UID:ae315ab0-ecda-4c54-99c6-0a8818f55b0d@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-36
+DTSTART:20260131T000000Z
+DTEND:20260131T000000Z
+UID:57cc5e9e-97c2-4833-8bcd-e4e62ce63ec6@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Glenn | Blue Moon Pathfinder
@@ -245,6 +235,16 @@ SUMMARY:Falcon Heavy | Nancy Grace Roman Space Telescope
 DTSTART:20261031T000000Z
 DTEND:20261031T000000Z
 UID:521f3a1c-f977-4306-9b7f-495858719adf@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | KOMPSAT-7A
+DTSTART:20261130T000000Z
+DTEND:20261130T000000Z
+UID:9642cfef-4687-495a-af2e-2ac81fa1e12a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
