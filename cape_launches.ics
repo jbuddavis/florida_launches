@@ -51,16 +51,6 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vulcan | USSF-57
-DTSTART:20260331T000000Z
-DTEND:20260331T000000Z
-UID:b32689fe-b156-4ccd-b824-fd555d12ba24@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #2
 DTSTART:20260331T000000Z
 DTEND:20260331T000000Z
@@ -145,6 +135,16 @@ SUMMARY:Falcon 9 Block 5 | Haven-1
 DTSTART:20260531T000000Z
 DTEND:20260531T000000Z
 UID:4cc61288-6f94-41de-8fd5-7fe4d72aedfb@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan | USSF-57
+DTSTART:20260531T000000Z
+DTEND:20260531T000000Z
+UID:b32689fe-b156-4ccd-b824-fd555d12ba24@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
