@@ -3,12 +3,13 @@ VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-88
-DTSTART:20251228T050000Z
-DTEND:20251228T081700Z
+DTSTART:20260103T000000Z
+DTEND:20260103T000000Z
 UID:ae315ab0-ecda-4c54-99c6-0a8818f55b0d@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-36
