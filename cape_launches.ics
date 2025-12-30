@@ -11,6 +11,15 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 6-96
+DTSTART:20260107T185500Z
+DTEND:20260107T225500Z
+UID:7e36b745-9e50-43ce-9911-ee33aa540f72@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #2
 DTSTART:20260131T000000Z
 DTEND:20260131T000000Z
@@ -235,16 +244,6 @@ SUMMARY:Falcon Heavy | Nancy Grace Roman Space Telescope
 DTSTART:20261031T000000Z
 DTEND:20261031T000000Z
 UID:521f3a1c-f977-4306-9b7f-495858719adf@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | KOMPSAT-7A
-DTSTART:20261130T000000Z
-DTEND:20261130T000000Z
-UID:9642cfef-4687-495a-af2e-2ac81fa1e12a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
