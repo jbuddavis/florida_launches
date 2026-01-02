@@ -29,6 +29,15 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 6-98
+DTSTART:20260114T180100Z
+DTEND:20260114T220100Z
+UID:b8d9ff2b-a972-4e50-8fff-6c189dbe34cd@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #2
 DTSTART:20260131T000000Z
 DTEND:20260131T000000Z
@@ -233,16 +242,6 @@ SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer C
 DTSTART:20261031T000000Z
 DTEND:20261031T000000Z
 UID:542a51bb-2351-48b9-98c5-9db130fb4c29@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D
-DTSTART:20261031T000000Z
-DTEND:20261031T000000Z
-UID:71df1dd0-d658-4762-b0bc-0fca6886aea7@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
