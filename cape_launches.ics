@@ -49,19 +49,9 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New Glenn | Blue Moon Pathfinder
-DTSTART:20260131T000000Z
-DTEND:20260131T000000Z
-UID:98ec4234-8c4e-4365-b6c5-6b89da53f8dd@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vulcan | USSF-87
-DTSTART:20260131T000000Z
-DTEND:20260131T000000Z
+SUMMARY:Vulcan VC4S | USSF-87
+DTSTART:20260202T000000Z
+DTEND:20260202T000000Z
 UID:550f778d-6c2d-41fc-b182-6f0cd8feda93@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
@@ -223,6 +213,16 @@ SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-35
 DTSTART:20260831T000000Z
 DTEND:20260831T000000Z
 UID:bf2c3027-a314-403e-a416-2bfd5d165ad1@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon Heavy | Nancy Grace Roman Space Telescope
+DTSTART:20260930T000000Z
+DTEND:20260930T000000Z
+UID:521f3a1c-f977-4306-9b7f-495858719adf@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
