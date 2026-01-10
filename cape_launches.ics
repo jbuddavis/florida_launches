@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | Starlink Group 6-96
 DTSTART:20260109T180300Z
 DTEND:20260109T220300Z
 UID:7e36b745-9e50-43ce-9911-ee33aa540f72@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-97
@@ -30,8 +31,8 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-100
-DTSTART:20260118T050000Z
-DTEND:20260118T081700Z
+DTSTART:20260118T220400Z
+DTEND:20260119T020400Z
 UID:13979f7e-c835-4813-860f-915c8ce9e784@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
@@ -69,8 +70,8 @@ STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SLS Block 1 | Artemis II
-DTSTART:20260207T024500Z
-DTEND:20260207T024500Z
+DTSTART:20260207T024100Z
+DTEND:20260207T044100Z
 UID:41699701-2ef4-4b0c-ac9d-6757820cde87@thespacedevs
 DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
