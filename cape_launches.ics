@@ -239,10 +239,10 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer C
-DTSTART:20261031T000000Z
-DTEND:20261031T000000Z
-UID:542a51bb-2351-48b9-98c5-9db130fb4c29@thespacedevs
+SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Tracking Layer A
+DTSTART:20260930T000000Z
+DTEND:20260930T000000Z
+UID:0a07a23e-606a-4589-bf3e-c3e41bd4de51@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
