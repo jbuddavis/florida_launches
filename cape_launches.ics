@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | Starlink Group 6-97
 DTSTART:20260112T174200Z
 DTEND:20260112T214200Z
 UID:0fb47674-d5c3-4681-ae0a-bff4c8e43d6a@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-98
@@ -73,16 +74,6 @@ SUMMARY:Falcon 9 Block 5 | Crew-12
 DTSTART:20260215T000000Z
 DTEND:20260215T000000Z
 UID:862b54e3-7bf8-48e5-8cd1-d77257d5fde9@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | MRV-1
-DTSTART:20260331T000000Z
-DTEND:20260331T000000Z
-UID:0f6780cf-edae-4d7c-99d6-ce7de784d140@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -163,6 +154,16 @@ SUMMARY:Falcon 9 Block 5 | Vast-1
 DTSTART:20260630T000000Z
 DTEND:20260630T000000Z
 UID:99875c7b-400c-40e2-b16c-bb9b2a02a0d8@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | MRV-1
+DTSTART:20260630T000000Z
+DTEND:20260630T000000Z
+UID:0f6780cf-edae-4d7c-99d6-ce7de784d140@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
