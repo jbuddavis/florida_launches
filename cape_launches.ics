@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 6-97
-DTSTART:20260112T174200Z
-DTEND:20260112T214200Z
-UID:0fb47674-d5c3-4681-ae0a-bff4c8e43d6a@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-98
 DTSTART:20260114T180100Z
 DTEND:20260114T220100Z
@@ -80,7 +70,7 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vulcan | GPS III SV09
+SUMMARY:Falcon 9 Block 5 | GPS III SV09
 DTSTART:20260331T000000Z
 DTEND:20260331T000000Z
 UID:98f70f28-397a-4c0d-aeb2-e7f8a88e0323@thespacedevs
@@ -244,6 +234,16 @@ SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Tracking Layer A
 DTSTART:20260930T000000Z
 DTEND:20260930T000000Z
 UID:0a07a23e-606a-4589-bf3e-c3e41bd4de51@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Tracking Layer B
+DTSTART:20260930T000000Z
+DTEND:20260930T000000Z
+UID:cb1762f0-90f4-4902-a5f6-655a7ade25bf@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
