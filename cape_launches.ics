@@ -40,6 +40,16 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | GPS III SV09
+DTSTART:20260131T000000Z
+DTEND:20260131T000000Z
+UID:98f70f28-397a-4c0d-aeb2-e7f8a88e0323@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vulcan VC4S | USSF-87
 DTSTART:20260202T000000Z
 DTEND:20260202T000000Z
@@ -64,16 +74,6 @@ SUMMARY:Falcon 9 Block 5 | Crew-12
 DTSTART:20260215T000000Z
 DTEND:20260215T000000Z
 UID:862b54e3-7bf8-48e5-8cd1-d77257d5fde9@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | GPS III SV09
-DTSTART:20260331T000000Z
-DTEND:20260331T000000Z
-UID:98f70f28-397a-4c0d-aeb2-e7f8a88e0323@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
