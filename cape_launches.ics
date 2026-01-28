@@ -6,9 +6,9 @@ SUMMARY:Falcon 9 Block 5 | GPS III SV09
 DTSTART:20260128T043800Z
 DTEND:20260128T045316Z
 UID:98f70f28-397a-4c0d-aeb2-e7f8a88e0323@thespacedevs
-DESCRIPTION:The launch vehicle has lifted off from the launchpad.
+DESCRIPTION:Deployment of the payload(s) has been confirmed.
 LOCATION:KSC
-STATUS:Launch in Flight
+STATUS:Payload Deployed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-101
