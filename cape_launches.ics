@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | GPS III SV09
 DTSTART:20260128T043800Z
 DTEND:20260128T045316Z
 UID:98f70f28-397a-4c0d-aeb2-e7f8a88e0323@thespacedevs
-DESCRIPTION:Deployment of the payload(s) has been confirmed.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Payload Deployed
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-101
@@ -21,18 +22,9 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-103
-DTSTART:20260201T230400Z
-DTEND:20260202T030400Z
+DTSTART:20260203T221200Z
+DTEND:20260204T021200Z
 UID:a0ed15aa-4d23-48ac-a712-950228663b43@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
-LOCATION:KSC
-STATUS:Go for Launch
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 6-104
-DTSTART:20260204T084500Z
-DTEND:20260204T124500Z
-UID:49532577-7d26-49df-ada3-12a85bb8189e@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
@@ -48,20 +40,29 @@ LOCATION:KSC
 STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 6-104
+DTSTART:20260207T071200Z
+DTEND:20260207T111200Z
+UID:49532577-7d26-49df-ada3-12a85bb8189e@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Crew-12
+DTSTART:20260211T110000Z
+DTEND:20260211T110000Z
+UID:862b54e3-7bf8-48e5-8cd1-d77257d5fde9@thespacedevs
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
+LOCATION:KSC
+STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vulcan VC4S | USSF-87
 DTSTART:20260212T000000Z
 DTEND:20260212T000000Z
 UID:550f778d-6c2d-41fc-b182-6f0cd8feda93@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Crew-12
-DTSTART:20260215T000000Z
-DTEND:20260215T000000Z
-UID:862b54e3-7bf8-48e5-8cd1-d77257d5fde9@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -88,20 +89,20 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vulcan VC6L | Amazon Leo (LV-01)
+SUMMARY:Vulcan | GPS III SV10
 DTSTART:20260331T000000Z
 DTEND:20260331T000000Z
-UID:ef9850ad-1096-425b-9d27-f7bbd186e61a@thespacedevs
+UID:2c5686ec-b0fd-4987-935d-587e3c85fa2d@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vulcan | WGS-11
+SUMMARY:Vulcan VC6L | Amazon Leo (LV-01)
 DTSTART:20260331T000000Z
 DTEND:20260331T000000Z
-UID:649bf8ed-f2a6-4923-aaf0-6086ad0227f5@thespacedevs
+UID:ef9850ad-1096-425b-9d27-f7bbd186e61a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
