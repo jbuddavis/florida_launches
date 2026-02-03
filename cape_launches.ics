@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 6-103
-DTSTART:20260205T212000Z
-DTEND:20260206T012000Z
-UID:a0ed15aa-4d23-48ac-a712-950228663b43@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
-LOCATION:KSC
-STATUS:Go for Launch
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 6-104
-DTSTART:20260208T104600Z
-DTEND:20260208T144600Z
-UID:49532577-7d26-49df-ada3-12a85bb8189e@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
-LOCATION:KSC
-STATUS:Go for Launch
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Crew-12
 DTSTART:20260211T110000Z
 DTEND:20260211T110000Z
@@ -38,6 +20,24 @@ DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
 STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 6-103
+DTSTART:20260214T000000Z
+DTEND:20260214T000000Z
+UID:a0ed15aa-4d23-48ac-a712-950228663b43@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 6-104
+DTSTART:20260216T000000Z
+DTEND:20260216T000000Z
+UID:49532577-7d26-49df-ada3-12a85bb8189e@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-36
