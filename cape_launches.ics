@@ -20,16 +20,6 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SLS Block 1 | Artemis II
-DTSTART:20260209T042000Z
-DTEND:20260209T062000Z
-UID:41699701-2ef4-4b0c-ac9d-6757820cde87@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
-LOCATION:KSC
-STATUS:To Be Confirmed
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Crew-12
 DTSTART:20260211T110000Z
 DTEND:20260211T110000Z
@@ -68,6 +58,16 @@ DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
 STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SLS Block 1 | Artemis II
+DTSTART:20260307T012900Z
+DTEND:20260307T032900Z
+UID:41699701-2ef4-4b0c-ac9d-6757820cde87@thespacedevs
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
+LOCATION:KSC
+STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vulcan | GPS III SV10
