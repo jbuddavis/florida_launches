@@ -3,13 +3,12 @@ VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Crew-12
-DTSTART:20260211T110100Z
-DTEND:20260211T110100Z
+DTSTART:20260211T110104Z
+DTEND:20260211T110104Z
 UID:862b54e3-7bf8-48e5-8cd1-d77257d5fde9@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vulcan VC4S | USSF-87
