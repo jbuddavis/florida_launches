@@ -29,15 +29,6 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 6-104
-DTSTART:20260216T050000Z
-DTEND:20260216T081700Z
-UID:49532577-7d26-49df-ada3-12a85bb8189e@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
-LOCATION:KSC
-STATUS:Go for Launch
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-36
 DTSTART:20260217T220000Z
 DTEND:20260218T020000Z
@@ -45,6 +36,16 @@ UID:57cc5e9e-97c2-4833-8bcd-e4e62ce63ec6@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 6-104
+DTSTART:20260221T000000Z
+DTEND:20260221T000000Z
+UID:49532577-7d26-49df-ada3-12a85bb8189e@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Glenn | BlueBird Block 2 #2
@@ -58,8 +59,8 @@ STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SLS Block 1 | Artemis II
-DTSTART:20260307T012900Z
-DTEND:20260307T032900Z
+DTSTART:20260303T223000Z
+DTEND:20260304T003000Z
 UID:41699701-2ef4-4b0c-ac9d-6757820cde87@thespacedevs
 DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
