@@ -39,8 +39,8 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-104
-DTSTART:20260221T000000Z
-DTEND:20260221T000000Z
+DTSTART:20260220T000000Z
+DTEND:20260220T000000Z
 UID:49532577-7d26-49df-ada3-12a85bb8189e@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
