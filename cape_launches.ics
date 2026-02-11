@@ -147,6 +147,16 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vulcan | NROL-64
+DTSTART:20260630T000000Z
+DTEND:20260630T000000Z
+UID:ac92d963-ebfb-4d18-b48c-04102d8dce8e@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Atlas V N22 | Starliner-2
 DTSTART:20260630T000000Z
 DTEND:20260630T000000Z
@@ -231,16 +241,6 @@ SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer C
 DTSTART:20261031T000000Z
 DTEND:20261031T000000Z
 UID:542a51bb-2351-48b9-98c5-9db130fb4c29@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D
-DTSTART:20261031T000000Z
-DTEND:20261031T000000Z
-UID:71df1dd0-d658-4762-b0bc-0fca6886aea7@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
