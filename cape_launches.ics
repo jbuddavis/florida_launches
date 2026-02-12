@@ -6,9 +6,10 @@ SUMMARY:Vulcan VC4S | USSF-87
 DTSTART:20260212T083000Z
 DTEND:20260212T103000Z
 UID:550f778d-6c2d-41fc-b182-6f0cd8feda93@thespacedevs
-DESCRIPTION:The launch vehicle has lifted off from the launchpad.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Launch in Flight
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Crew-12
