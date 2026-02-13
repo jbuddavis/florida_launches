@@ -22,8 +22,8 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-36
-DTSTART:20260217T220000Z
-DTEND:20260218T020000Z
+DTSTART:20260218T220000Z
+DTEND:20260219T020000Z
 UID:57cc5e9e-97c2-4833-8bcd-e4e62ce63ec6@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
@@ -43,6 +43,15 @@ SUMMARY:Falcon 9 Block 5 | Starlink Group 6-110
 DTSTART:20260224T205600Z
 DTEND:20260225T005600Z
 UID:db5c6392-a8b5-4f97-8a38-cc147f086f00@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 6-108
+DTSTART:20260226T095900Z
+DTEND:20260226T135900Z
+UID:aeccc82e-4a01-46dc-a893-1d6d098973e2@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
@@ -232,16 +241,6 @@ SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Tracking Layer B
 DTSTART:20260930T000000Z
 DTEND:20260930T000000Z
 UID:cb1762f0-90f4-4902-a5f6-655a7ade25bf@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer C
-DTSTART:20261031T000000Z
-DTEND:20261031T000000Z
-UID:542a51bb-2351-48b9-98c5-9db130fb4c29@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
