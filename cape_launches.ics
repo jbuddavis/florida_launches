@@ -2,23 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Vulcan VC4S | USSF-87
-DTSTART:20260212T083000Z
-DTEND:20260212T103000Z
-UID:550f778d-6c2d-41fc-b182-6f0cd8feda93@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Crew-12
 DTSTART:20260213T101556Z
 DTEND:20260213T101556Z
 UID:862b54e3-7bf8-48e5-8cd1-d77257d5fde9@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 6-103
@@ -57,16 +48,6 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New Glenn | BlueBird Block 2 #2
-DTSTART:20260228T000000Z
-DTEND:20260228T000000Z
-UID:53769468-bfd3-45c7-a52b-46a68ed7510f@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SLS Block 1 | Artemis II
 DTSTART:20260303T223000Z
 DTEND:20260304T003000Z
@@ -75,6 +56,16 @@ DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
 LOCATION:KSC
 STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Glenn | BlueBird Block 2 #2
+DTSTART:20260331T000000Z
+DTEND:20260331T000000Z
+UID:53769468-bfd3-45c7-a52b-46a68ed7510f@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vulcan | GPS III SV10
@@ -241,6 +232,16 @@ SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Tracking Layer B
 DTSTART:20260930T000000Z
 DTEND:20260930T000000Z
 UID:cb1762f0-90f4-4902-a5f6-655a7ade25bf@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer C
+DTSTART:20261031T000000Z
+DTEND:20261031T000000Z
+UID:542a51bb-2351-48b9-98c5-9db130fb4c29@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
