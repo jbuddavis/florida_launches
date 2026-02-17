@@ -38,6 +38,15 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-41
+DTSTART:20260302T023000Z
+DTEND:20260302T063000Z
+UID:3f71a8a7-118f-460c-953b-984de24aba5c@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SLS Block 1 | Artemis II
 DTSTART:20260307T012900Z
 DTEND:20260307T032900Z
@@ -46,6 +55,16 @@ DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
 LOCATION:KSC
 STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | EchoStar 25
+DTSTART:20260309T000000Z
+DTEND:20260309T000000Z
+UID:8701f102-a33e-450b-87b1-660679aab736@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Glenn | BlueBird Block 2 #2
@@ -222,26 +241,6 @@ SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Tracking Layer B
 DTSTART:20260930T000000Z
 DTEND:20260930T000000Z
 UID:cb1762f0-90f4-4902-a5f6-655a7ade25bf@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer C
-DTSTART:20261031T000000Z
-DTEND:20261031T000000Z
-UID:542a51bb-2351-48b9-98c5-9db130fb4c29@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D
-DTSTART:20261031T000000Z
-DTEND:20261031T000000Z
-UID:71df1dd0-d658-4762-b0bc-0fca6886aea7@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
