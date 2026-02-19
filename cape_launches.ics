@@ -58,8 +58,8 @@ STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | EchoStar 25
-DTSTART:20260309T000000Z
-DTEND:20260309T000000Z
+DTSTART:20260308T000000Z
+DTEND:20260308T000000Z
 UID:8701f102-a33e-450b-87b1-660679aab736@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
