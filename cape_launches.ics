@@ -29,6 +29,15 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-40
+DTSTART:20260304T084000Z
+DTEND:20260304T124000Z
+UID:5d5e17f4-292b-45f6-ab53-05437cf63ce0@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | EchoStar 25
 DTSTART:20260308T000000Z
 DTEND:20260308T000000Z
@@ -233,16 +242,6 @@ SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer C
 DTSTART:20261031T000000Z
 DTEND:20261031T000000Z
 UID:542a51bb-2351-48b9-98c5-9db130fb4c29@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D
-DTSTART:20261031T000000Z
-DTEND:20261031T000000Z
-UID:71df1dd0-d658-4762-b0bc-0fca6886aea7@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
