@@ -238,10 +238,10 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer C
-DTSTART:20261031T000000Z
-DTEND:20261031T000000Z
-UID:542a51bb-2351-48b9-98c5-9db130fb4c29@thespacedevs
+SUMMARY:Falcon 9 Block 5 | Blue Ghost Lunar Lander Mission 2
+DTSTART:20261130T000000Z
+DTEND:20261130T000000Z
+UID:387aadc6-68ca-4090-9be7-d57603ad7c79@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
