@@ -79,6 +79,16 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-24
+DTSTART:20260401T150000Z
+DTEND:20260401T150000Z
+UID:5ed6ab75-8c5b-4013-93e1-1deb56b14f1d@thespacedevs
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
+LOCATION:KSC
+STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SLS Block 1 | Artemis II
 DTSTART:20260401T222400Z
 DTEND:20260402T002400Z
@@ -87,16 +97,6 @@ DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
 LOCATION:KSC
 STATUS:To Be Confirmed
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-24
-DTSTART:20260403T000000Z
-DTEND:20260403T000000Z
-UID:5ed6ab75-8c5b-4013-93e1-1deb56b14f1d@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V N22 | Starliner-1
