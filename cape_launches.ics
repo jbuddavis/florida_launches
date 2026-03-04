@@ -30,6 +30,15 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-46
+DTSTART:20260315T110900Z
+DTEND:20260315T150900Z
+UID:f5df8e48-7612-4757-bd1b-cdb5b5a1936b@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:New Glenn | BlueBird Block 2 #2
 DTSTART:20260331T000000Z
 DTEND:20260331T000000Z
@@ -190,6 +199,16 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | O3b mPower 11-13
+DTSTART:20260930T000000Z
+DTEND:20260930T000000Z
+UID:ad358a4d-c541-409b-9366-9c2f2da4aeb9@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | 5x Astranis MicroGEO
 DTSTART:20260930T000000Z
 DTEND:20260930T000000Z
@@ -224,26 +243,6 @@ SUMMARY:Falcon 9 Block 5 | Blue Ghost Lunar Lander Mission 2
 DTSTART:20261130T000000Z
 DTEND:20261130T000000Z
 UID:387aadc6-68ca-4090-9be7-d57603ad7c79@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | KOMPSAT-7A
-DTSTART:20261130T000000Z
-DTEND:20261130T000000Z
-UID:9642cfef-4687-495a-af2e-2ac81fa1e12a@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:71df1dd0-d658-4762-b0bc-0fca6886aea7@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
