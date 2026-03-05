@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-40
-DTSTART:20260304T065800Z
-DTEND:20260304T105800Z
-UID:5d5e17f4-292b-45f6-ab53-05437cf63ce0@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | EchoStar 25
 DTSTART:20260310T031400Z
 DTEND:20260310T054300Z
@@ -31,8 +21,8 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-46
-DTSTART:20260315T110900Z
-DTEND:20260315T150900Z
+DTSTART:20260315T111100Z
+DTEND:20260315T151100Z
 UID:f5df8e48-7612-4757-bd1b-cdb5b5a1936b@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
@@ -243,6 +233,16 @@ SUMMARY:Falcon 9 Block 5 | Blue Ghost Lunar Lander Mission 2
 DTSTART:20261130T000000Z
 DTEND:20261130T000000Z
 UID:387aadc6-68ca-4090-9be7-d57603ad7c79@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | KOMPSAT-7A
+DTSTART:20261130T000000Z
+DTEND:20261130T000000Z
+UID:9642cfef-4687-495a-af2e-2ac81fa1e12a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
