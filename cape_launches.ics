@@ -29,6 +29,15 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-33
+DTSTART:20260318T105700Z
+DTEND:20260318T145700Z
+UID:890f714a-aa3c-487f-ae81-b7e654276cd5@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:New Glenn | BlueBird Block 2 #2
 DTSTART:20260331T000000Z
 DTEND:20260331T000000Z
@@ -59,16 +68,6 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-24
-DTSTART:20260401T150000Z
-DTEND:20260401T150000Z
-UID:5ed6ab75-8c5b-4013-93e1-1deb56b14f1d@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
-LOCATION:KSC
-STATUS:To Be Confirmed
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SLS Block 1 | Artemis II
 DTSTART:20260401T222400Z
 DTEND:20260402T002400Z
@@ -77,6 +76,15 @@ DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
 LOCATION:KSC
 STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-24
+DTSTART:20260408T123000Z
+DTEND:20260408T123000Z
+UID:5ed6ab75-8c5b-4013-93e1-1deb56b14f1d@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V N22 | Starliner-1
@@ -233,16 +241,6 @@ SUMMARY:Falcon 9 Block 5 | Blue Ghost Lunar Lander Mission 2
 DTSTART:20261130T000000Z
 DTEND:20261130T000000Z
 UID:387aadc6-68ca-4090-9be7-d57603ad7c79@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | KOMPSAT-7A
-DTSTART:20261130T000000Z
-DTEND:20261130T000000Z
-UID:9642cfef-4687-495a-af2e-2ac81fa1e12a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
