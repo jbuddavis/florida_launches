@@ -6,9 +6,9 @@ SUMMARY:Falcon 9 Block 5 | EchoStar 25
 DTSTART:20260310T031400Z
 DTEND:20260310T054300Z
 UID:8701f102-a33e-450b-87b1-660679aab736@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:Deployment of the payload(s) has been confirmed.
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Payload Deployed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-48
