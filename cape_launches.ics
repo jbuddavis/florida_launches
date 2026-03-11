@@ -38,6 +38,15 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-62
+DTSTART:20260322T144300Z
+DTEND:20260322T184300Z
+UID:2ab15fcb-7a74-429d-bab0-43635b723cfd@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:New Glenn | BlueBird Block 2 #2
 DTSTART:20260331T000000Z
 DTEND:20260331T000000Z
@@ -97,6 +106,16 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)
+DTSTART:20260430T000000Z
+DTEND:20260430T000000Z
+UID:4cc237b2-c61a-491e-9532-466cce81f524@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-34
 DTSTART:20260531T000000Z
 DTEND:20260531T000000Z
@@ -121,16 +140,6 @@ SUMMARY:Falcon 9 Block 5 | MRV-1
 DTSTART:20260630T000000Z
 DTEND:20260630T000000Z
 UID:0f6780cf-edae-4d7c-99d6-ce7de784d140@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)
-DTSTART:20260630T000000Z
-DTEND:20260630T000000Z
-UID:4cc237b2-c61a-491e-9532-466cce81f524@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -231,16 +240,6 @@ SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Tracking Layer B
 DTSTART:20260930T000000Z
 DTEND:20260930T000000Z
 UID:cb1762f0-90f4-4902-a5f6-655a7ade25bf@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Blue Ghost Lunar Lander Mission 2
-DTSTART:20261130T000000Z
-DTEND:20261130T000000Z
-UID:387aadc6-68ca-4090-9be7-d57603ad7c79@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
