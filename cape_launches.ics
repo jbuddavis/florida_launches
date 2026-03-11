@@ -38,6 +38,16 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Atlas V 551 | Amazon Leo (LA-05)
+DTSTART:20260330T000000Z
+DTEND:20260330T000000Z
+UID:8a9f7ce9-4ab5-4227-95f1-9f328def8828@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:New Glenn | BlueBird Block 2 #2
 DTSTART:20260331T000000Z
 DTEND:20260331T000000Z
@@ -87,16 +97,6 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlas V N22 | Starliner-1
-DTSTART:20260430T000000Z
-DTEND:20260430T000000Z
-UID:07e945c1-2ec6-4d29-a500-1afbe920440f@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)
 DTSTART:20260430T000000Z
 DTEND:20260430T000000Z
@@ -141,16 +141,6 @@ SUMMARY:Vulcan | NROL-64
 DTSTART:20260630T000000Z
 DTEND:20260630T000000Z
 UID:ac92d963-ebfb-4d18-b48c-04102d8dce8e@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atlas V N22 | Starliner-2
-DTSTART:20260630T000000Z
-DTEND:20260630T000000Z
-UID:29c2b843-540d-40da-b200-d4892d74e140@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -241,6 +231,16 @@ SUMMARY:Falcon 9 Block 5 | Blue Ghost Lunar Lander Mission 2
 DTSTART:20261130T000000Z
 DTEND:20261130T000000Z
 UID:387aadc6-68ca-4090-9be7-d57603ad7c79@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | KOMPSAT-7A
+DTSTART:20261130T000000Z
+DTEND:20261130T000000Z
+UID:9642cfef-4687-495a-af2e-2ac81fa1e12a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
