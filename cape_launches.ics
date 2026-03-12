@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-48
-DTSTART:20260312T100000Z
-DTEND:20260312T140000Z
+DTSTART:20260313T100000Z
+DTEND:20260313T140000Z
 UID:6f2868b8-1000-48e5-893b-700c1371b4fb@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
@@ -12,8 +12,8 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-46
-DTSTART:20260315T111100Z
-DTEND:20260315T151100Z
+DTSTART:20260316T104900Z
+DTEND:20260316T144900Z
 UID:f5df8e48-7612-4757-bd1b-cdb5b5a1936b@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
@@ -39,13 +39,12 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Amazon Leo (LA-05)
-DTSTART:20260330T000000Z
-DTEND:20260330T000000Z
+DTSTART:20260330T073100Z
+DTEND:20260330T073100Z
 UID:8a9f7ce9-4ab5-4227-95f1-9f328def8828@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Determined
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Glenn | BlueBird Block 2 #2
