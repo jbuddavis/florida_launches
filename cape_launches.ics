@@ -177,20 +177,20 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Blue Ghost Lunar Lander Mission 2
+SUMMARY:Falcon 9 Block 5 | KOMPSAT-7A
 DTSTART:20261130T000000Z
 DTEND:20261130T000000Z
-UID:387aadc6-68ca-4090-9be7-d57603ad7c79@thespacedevs
+UID:9642cfef-4687-495a-af2e-2ac81fa1e12a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | KOMPSAT-7A
-DTSTART:20261130T000000Z
-DTEND:20261130T000000Z
-UID:9642cfef-4687-495a-af2e-2ac81fa1e12a@thespacedevs
+SUMMARY:Falcon 9 Block 5 | Blue Ghost Lunar Lander Mission 2
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:387aadc6-68ca-4090-9be7-d57603ad7c79@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
