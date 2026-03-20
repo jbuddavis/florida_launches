@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-33
-DTSTART:20260319T103500Z
-DTEND:20260319T143500Z
-UID:890f714a-aa3c-487f-ae81-b7e654276cd5@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-62
 DTSTART:20260322T144300Z
 DTEND:20260322T184300Z
@@ -59,8 +49,8 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-24
-DTSTART:20260408T123000Z
-DTEND:20260408T123000Z
+DTSTART:20260408T125100Z
+DTEND:20260408T125100Z
 UID:5ed6ab75-8c5b-4013-93e1-1deb56b14f1d@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
@@ -241,6 +231,16 @@ SUMMARY:Vulcan VC4L | Dream Chaser CRS 2 Flight 1
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:a67b40f9-cfcc-4614-a355-a156280b4bb3@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Nova-C IM-3
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:0c26b3d4-43e3-4c1a-8976-592ff319bc51@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
