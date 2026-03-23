@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-62
-DTSTART:20260322T144300Z
-DTEND:20260322T184300Z
-UID:2ab15fcb-7a74-429d-bab0-43635b723cfd@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-44
 DTSTART:20260326T112200Z
 DTEND:20260326T152200Z
@@ -65,6 +55,16 @@ UID:5ed6ab75-8c5b-4013-93e1-1deb56b14f1d@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlas V 551 | Amazon Leo (LA-06)
+DTSTART:20260430T000000Z
+DTEND:20260430T000000Z
+UID:7e89e423-6f47-40a0-b075-c6fc1d9cf228@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | GPS III SV10
