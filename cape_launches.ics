@@ -49,6 +49,15 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-58
+DTSTART:20260402T154500Z
+DTEND:20260402T194500Z
+UID:63aa7636-d2b7-457f-a3e6-27e564e42941@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-24
 DTSTART:20260408T125100Z
 DTEND:20260408T125100Z
@@ -232,16 +241,6 @@ SUMMARY:Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:01ca3653-126a-4c01-94fb-a9467b39cdac@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vulcan VC4L | Dream Chaser CRS 2 Flight 1
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:a67b40f9-cfcc-4614-a355-a156280b4bb3@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
