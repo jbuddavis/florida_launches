@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-44
-DTSTART:20260327T110000Z
-DTEND:20260327T150000Z
-UID:10fbecb2-7624-44bc-85ce-9a22b9b9f2ec@thespacedevs
+SUMMARY:Atlas V 551 | Amazon Leo (LA-05)
+DTSTART:20260329T075300Z
+DTEND:20260329T082200Z
+UID:8a9f7ce9-4ab5-4227-95f1-9f328def8828@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlas V 551 | Amazon Leo (LA-05)
-DTSTART:20260329T075300Z
-DTEND:20260329T082200Z
-UID:8a9f7ce9-4ab5-4227-95f1-9f328def8828@thespacedevs
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-44
+DTSTART:20260329T211500Z
+DTEND:20260330T011500Z
+UID:10fbecb2-7624-44bc-85ce-9a22b9b9f2ec@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
