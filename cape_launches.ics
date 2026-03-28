@@ -20,16 +20,6 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New Glenn | BlueBird Block 2 #2
-DTSTART:20260331T000000Z
-DTEND:20260331T000000Z
-UID:53769468-bfd3-45c7-a52b-46a68ed7510f@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SLS Block 1 | Artemis II
 DTSTART:20260401T222400Z
 DTEND:20260402T002400Z
@@ -81,6 +71,16 @@ SUMMARY:Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)
 DTSTART:20260430T000000Z
 DTEND:20260430T000000Z
 UID:4cc237b2-c61a-491e-9532-466cce81f524@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Glenn | BlueBird Block 2 #2
+DTSTART:20260430T000000Z
+DTEND:20260430T000000Z
+UID:53769468-bfd3-45c7-a52b-46a68ed7510f@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
