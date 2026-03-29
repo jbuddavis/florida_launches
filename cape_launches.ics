@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-44
-DTSTART:20260329T211500Z
-DTEND:20260330T011500Z
+DTSTART:20260330T211500Z
+DTEND:20260331T011500Z
 UID:10fbecb2-7624-44bc-85ce-9a22b9b9f2ec@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
