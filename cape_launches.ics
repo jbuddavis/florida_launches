@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-44
-DTSTART:20260330T211500Z
-DTEND:20260331T011500Z
-UID:10fbecb2-7624-44bc-85ce-9a22b9b9f2ec@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SLS Block 1 | Artemis II
 DTSTART:20260401T222400Z
 DTEND:20260402T002400Z
@@ -243,6 +233,16 @@ SUMMARY:Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:01ca3653-126a-4c01-94fb-a9467b39cdac@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan VC4L | Dream Chaser CRS 2 Flight 1
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:a67b40f9-cfcc-4614-a355-a156280b4bb3@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
