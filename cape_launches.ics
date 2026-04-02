@@ -6,9 +6,10 @@ SUMMARY:SLS Block 1 | Artemis II
 DTSTART:20260401T222400Z
 DTEND:20260402T002400Z
 UID:41699701-2ef4-4b0c-ac9d-6757820cde87@thespacedevs
-DESCRIPTION:The launch vehicle has lifted off from the launchpad.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Launch in Flight
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-58
