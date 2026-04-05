@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Atlas V 551 | Amazon Leo (LA-05)
-DTSTART:20260404T054500Z
-DTEND:20260404T061400Z
-UID:8a9f7ce9-4ab5-4227-95f1-9f328def8828@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-24
 DTSTART:20260408T125100Z
 DTEND:20260408T125100Z
@@ -244,6 +234,16 @@ SUMMARY:Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:01ca3653-126a-4c01-94fb-a9467b39cdac@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan VC4L | Dream Chaser CRS 2 Flight 1
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:a67b40f9-cfcc-4614-a355-a156280b4bb3@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
