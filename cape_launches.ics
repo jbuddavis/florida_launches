@@ -6,9 +6,9 @@ SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-24 (S.S. Steven R. Nagel)
 DTSTART:20260411T114121Z
 DTEND:20260411T114121Z
 UID:5ed6ab75-8c5b-4013-93e1-1deb56b14f1d@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:Deployment of the payload(s) has been confirmed.
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Payload Deployed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-24
