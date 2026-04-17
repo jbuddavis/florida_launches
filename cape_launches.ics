@@ -4,22 +4,20 @@ PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
 SUMMARY:New Glenn | BlueBird Block 2 #2
 DTSTART:20260419T104500Z
-DTEND:20260419T134300Z
+DTEND:20260419T124500Z
 UID:53769468-bfd3-45c7-a52b-46a68ed7510f@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | GPS III SV10
-DTSTART:20260420T064800Z
-DTEND:20260420T080500Z
+DTSTART:20260420T065700Z
+DTEND:20260420T071200Z
 UID:2c5686ec-b0fd-4987-935d-587e3c85fa2d@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Amazon Leo (LA-06)
