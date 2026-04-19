@@ -6,14 +6,14 @@ SUMMARY:New Glenn | BlueBird Block 2 #2
 DTSTART:20260419T104500Z
 DTEND:20260419T124500Z
 UID:53769468-bfd3-45c7-a52b-46a68ed7510f@thespacedevs
-DESCRIPTION:The launch vehicle has lifted off from the launchpad.
+DESCRIPTION:Deployment of the payload(s) has been confirmed.
 LOCATION:KSC
-STATUS:Launch in Flight
+STATUS:Payload Deployed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | GPS III SV10
-DTSTART:20260420T065700Z
-DTEND:20260420T071200Z
+DTSTART:20260421T065300Z
+DTEND:20260421T070800Z
 UID:2c5686ec-b0fd-4987-935d-587e3c85fa2d@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
