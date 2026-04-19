@@ -6,9 +6,9 @@ SUMMARY:New Glenn | BlueBird Block 2 #2
 DTSTART:20260419T104500Z
 DTEND:20260419T124500Z
 UID:53769468-bfd3-45c7-a52b-46a68ed7510f@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle has lifted off from the launchpad.
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch in Flight
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | GPS III SV10
@@ -150,6 +150,16 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:New Glenn | Blue Moon Pathfinder
+DTSTART:20260930T000000Z
+DTEND:20260930T000000Z
+UID:98ec4234-8c4e-4365-b6c5-6b89da53f8dd@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | KOMPSAT-7A
 DTSTART:20261130T000000Z
 DTEND:20261130T000000Z
@@ -234,16 +244,6 @@ SUMMARY:Falcon Heavy | Griffin Mission One
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:d3bd7fb2-fac6-49fc-ae52-cee07d2fde67@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Astra Rocket 4 | Maiden Flight
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:3ac1bd74-bf9a-4afe-ae00-3e1d180142dd@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
