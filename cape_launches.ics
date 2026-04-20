@@ -11,24 +11,22 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlas V 551 | Amazon Leo (LA-06)
-DTSTART:20260427T000000Z
-DTEND:20260427T000000Z
-UID:7e89e423-6f47-40a0-b075-c6fc1d9cf228@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
+SUMMARY:Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)
+DTSTART:20260427T142100Z
+DTEND:20260427T154600Z
+UID:4cc237b2-c61a-491e-9532-466cce81f524@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Determined
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)
-DTSTART:20260430T000000Z
-DTEND:20260430T000000Z
-UID:4cc237b2-c61a-491e-9532-466cce81f524@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
+SUMMARY:Atlas V 551 | Amazon Leo (LA-06)
+DTSTART:20260428T005200Z
+DTEND:20260428T012100Z
+UID:7e89e423-6f47-40a0-b075-c6fc1d9cf228@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Determined
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-38
@@ -41,13 +39,13 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-34
-DTSTART:20260531T000000Z
-DTEND:20260531T000000Z
+DTSTART:20260512T230000Z
+DTEND:20260512T230000Z
 UID:e60aa241-1f2c-4459-ba94-2f576c3e5632@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
 LOCATION:KSC
-STATUS:To Be Determined
+STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Amazon Leo (LA-07)
