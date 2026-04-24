@@ -89,6 +89,16 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Crew-13
+DTSTART:20260930T000000Z
+DTEND:20260930T000000Z
+UID:18441371-8b2e-457c-afb5-1ec1b11ab630@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | O3b mPower 11-13
 DTSTART:20260930T000000Z
 DTEND:20260930T000000Z
@@ -233,16 +243,6 @@ SUMMARY:Falcon Heavy | Griffin Mission One
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:d3bd7fb2-fac6-49fc-ae52-cee07d2fde67@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Astra Rocket 4 | Maiden Flight
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:3ac1bd74-bf9a-4afe-ae00-3e1d180142dd@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
