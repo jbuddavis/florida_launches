@@ -6,9 +6,10 @@ SUMMARY:Atlas V 551 | Amazon Leo (LA-06)
 DTSTART:20260428T005200Z
 DTEND:20260428T012100Z
 UID:7e89e423-6f47-40a0-b075-c6fc1d9cf228@thespacedevs
-DESCRIPTION:The launch vehicle has lifted off from the launchpad.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Launch in Flight
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)
@@ -40,8 +41,8 @@ STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Amazon Leo (LA-07)
-DTSTART:20260630T000000Z
-DTEND:20260630T000000Z
+DTSTART:20260522T000000Z
+DTEND:20260522T000000Z
 UID:ff0a6a32-6513-4e85-9fd8-a2d022add74d@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
