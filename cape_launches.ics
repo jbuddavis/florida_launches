@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)
-DTSTART:20260427T142100Z
-DTEND:20260427T154600Z
-UID:4cc237b2-c61a-491e-9532-466cce81f524@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
-LOCATION:KSC
-STATUS:Go for Launch
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Amazon Leo (LA-06)
 DTSTART:20260428T005200Z
 DTEND:20260428T012100Z
 UID:7e89e423-6f47-40a0-b075-c6fc1d9cf228@thespacedevs
+DESCRIPTION:The launch vehicle has lifted off from the launchpad.
+LOCATION:KSC
+STATUS:Launch in Flight
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)
+DTSTART:20260429T141300Z
+DTEND:20260429T153800Z
+UID:4cc237b2-c61a-491e-9532-466cce81f524@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
