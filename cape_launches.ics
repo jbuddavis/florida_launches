@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)
-DTSTART:20260429T141300Z
-DTEND:20260429T153800Z
-UID:4cc237b2-c61a-491e-9532-466cce81f524@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-38
 DTSTART:20260501T173300Z
 DTEND:20260501T213300Z
@@ -22,13 +12,12 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-34
-DTSTART:20260512T230000Z
-DTEND:20260512T230000Z
+DTSTART:20260512T231634Z
+DTEND:20260512T231634Z
 UID:e60aa241-1f2c-4459-ba94-2f576c3e5632@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Amazon Leo (LA-07)
@@ -245,6 +234,16 @@ SUMMARY:Astra Rocket 4 | Maiden Flight
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:3ac1bd74-bf9a-4afe-ae00-3e1d180142dd@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlas V N22 | Starliner-1
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:07e945c1-2ec6-4d29-a500-1afbe920440f@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
