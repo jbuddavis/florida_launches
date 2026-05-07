@@ -30,6 +30,16 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #3
+DTSTART:20260630T000000Z
+DTEND:20260630T000000Z
+UID:c3f48f48-0e0a-4bca-917e-de494cfca35b@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Amazon Leo (LA-08)
 DTSTART:20260630T000000Z
 DTEND:20260630T000000Z
@@ -234,16 +244,6 @@ SUMMARY:Falcon Heavy | Griffin Mission One
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:d3bd7fb2-fac6-49fc-ae52-cee07d2fde67@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Astra Rocket 4 | Maiden Flight
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:3ac1bd74-bf9a-4afe-ae00-3e1d180142dd@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
