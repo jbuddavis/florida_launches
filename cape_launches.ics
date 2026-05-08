@@ -3,9 +3,18 @@ VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-34
-DTSTART:20260512T231634Z
-DTEND:20260512T231634Z
+DTSTART:20260512T231636Z
+DTEND:20260512T231636Z
 UID:e60aa241-1f2c-4459-ba94-2f576c3e5632@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | 9 x Globalstar-3
+DTSTART:20260517T125000Z
+DTEND:20260517T130400Z
+UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
@@ -28,16 +37,6 @@ UID:ef65c43b-faf9-4adb-9155-289eaabdd097@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | 9 x Globalstar-3
-DTSTART:20260531T000000Z
-DTEND:20260531T000000Z
-UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #3
