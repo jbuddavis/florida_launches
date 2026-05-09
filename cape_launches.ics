@@ -11,7 +11,7 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | 9 x Globalstar-3
+SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)
 DTSTART:20260517T125000Z
 DTEND:20260517T130400Z
 UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
@@ -239,10 +239,10 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon Heavy | Griffin Mission One
+SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 2 (x 8)
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
-UID:d3bd7fb2-fac6-49fc-ae52-cee07d2fde67@thespacedevs
+UID:e61d353c-db55-4a57-8184-0fab187231e6@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
