@@ -58,16 +58,6 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | MRV-1
-DTSTART:20260630T000000Z
-DTEND:20260630T000000Z
-UID:0f6780cf-edae-4d7c-99d6-ce7de784d140@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-35
 DTSTART:20260831T000000Z
 DTEND:20260831T000000Z
@@ -112,6 +102,16 @@ SUMMARY:Falcon 9 Block 5 | 5x Astranis MicroGEO
 DTSTART:20260930T000000Z
 DTEND:20260930T000000Z
 UID:9bfa0324-db74-444f-8dc3-1c7d373ca659@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | MRV-1
+DTSTART:20260930T000000Z
+DTEND:20260930T000000Z
+UID:0f6780cf-edae-4d7c-99d6-ce7de784d140@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
