@@ -12,8 +12,8 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)
-DTSTART:20260520T115400Z
-DTEND:20260520T120800Z
+DTSTART:20260520T120400Z
+DTEND:20260520T121800Z
 UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
@@ -148,6 +148,16 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vulcan VC6L | Amazon Leo (LV-01)
+DTSTART:20260930T000000Z
+DTEND:20260930T000000Z
+UID:ef9850ad-1096-425b-9d27-f7bbd186e61a@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | KOMPSAT-7A
 DTSTART:20261130T000000Z
 DTEND:20261130T000000Z
@@ -232,16 +242,6 @@ SUMMARY:Vulcan VC4L | Dream Chaser CRS 2 Flight 1
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:a67b40f9-cfcc-4614-a355-a156280b4bb3@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 2 (x 8)
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:e61d353c-db55-4a57-8184-0fab187231e6@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
