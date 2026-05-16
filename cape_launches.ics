@@ -79,6 +79,16 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon Heavy | Nancy Grace Roman Space Telescope
+DTSTART:20260831T000000Z
+DTEND:20260831T000000Z
+UID:521f3a1c-f977-4306-9b7f-495858719adf@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Crew-13
 DTSTART:20260930T000000Z
 DTEND:20260930T000000Z
@@ -93,16 +103,6 @@ SUMMARY:Falcon 9 Block 5 | O3b mPower 11-13
 DTSTART:20260930T000000Z
 DTEND:20260930T000000Z
 UID:ad358a4d-c541-409b-9366-9c2f2da4aeb9@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon Heavy | Nancy Grace Roman Space Telescope
-DTSTART:20260930T000000Z
-DTEND:20260930T000000Z
-UID:521f3a1c-f977-4306-9b7f-495858719adf@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
