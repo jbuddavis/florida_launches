@@ -6,33 +6,16 @@ SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-34
 DTSTART:20260515T220541Z
 DTEND:20260515T220541Z
 UID:e60aa241-1f2c-4459-ba94-2f576c3e5632@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Go for Launch
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)
-DTSTART:20260520T120400Z
-DTEND:20260520T121800Z
-UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
-LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-31
 DTSTART:20260521T092600Z
 DTEND:20260521T132600Z
 UID:ef65c43b-faf9-4adb-9155-289eaabdd097@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
-LOCATION:KSC
-STATUS:Go for Launch
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atlas V 551 | Amazon Leo (LA-07)
-DTSTART:20260522T185600Z
-DTEND:20260522T192500Z
-UID:ff0a6a32-6513-4e85-9fd8-a2d022add74d@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
@@ -45,6 +28,25 @@ UID:e6159040-124e-4a2a-91db-41f5a48acfd8@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
 STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlas V 551 | Amazon Leo (LA-07)
+DTSTART:20260529T162700Z
+DTEND:20260529T165600Z
+UID:ff0a6a32-6513-4e85-9fd8-a2d022add74d@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)
+DTSTART:20260531T000000Z
+DTEND:20260531T000000Z
+UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #3
