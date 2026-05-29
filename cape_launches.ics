@@ -29,16 +29,6 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New Glenn | Amazon Leo (LN-01)
-DTSTART:20260604T172100Z
-DTEND:20260604T193000Z
-UID:ca3d56b7-2175-48e4-9a6a-2ecc9996d96b@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
-LOCATION:KSC
-STATUS:To Be Confirmed
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-35
 DTSTART:20260608T100700Z
 DTEND:20260608T140700Z
@@ -242,6 +232,16 @@ SUMMARY:Falcon 9 Block 5 | CHORUS
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:8bf5f61e-a7e1-41e6-aede-7b87e4beebab@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-25
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:d74afbc7-0de5-491c-be05-4e9c31f736ac@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
