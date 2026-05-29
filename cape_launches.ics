@@ -48,7 +48,7 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #3
+SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #3-5
 DTSTART:20260630T000000Z
 DTEND:20260630T000000Z
 UID:c3f48f48-0e0a-4bca-917e-de494cfca35b@thespacedevs
@@ -72,6 +72,26 @@ SUMMARY:Atlas V 551 | Amazon Leo (LA-08)
 DTSTART:20260630T000000Z
 DTEND:20260630T000000Z
 UID:9eb09815-c237-4fdd-9057-5b161131240c@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Sirius SXM-11
+DTSTART:20260630T000000Z
+DTEND:20260630T000000Z
+UID:ce3db8f7-ba9b-4a2a-953c-c6c6ee926541@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #6-8
+DTSTART:20260731T000000Z
+DTEND:20260731T000000Z
+UID:56a85c82-ea71-449b-828c-b583f6f4a18b@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -222,26 +242,6 @@ SUMMARY:Falcon 9 Block 5 | CHORUS
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:8bf5f61e-a7e1-41e6-aede-7b87e4beebab@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-25
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:d74afbc7-0de5-491c-be05-4e9c31f736ac@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:01ca3653-126a-4c01-94fb-a9467b39cdac@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
