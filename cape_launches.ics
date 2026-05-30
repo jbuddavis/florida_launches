@@ -16,9 +16,10 @@ SUMMARY:Atlas V 551 | Amazon Leo (LA-07)
 DTSTART:20260529T233330Z
 DTEND:20260530T000230Z
 UID:ff0a6a32-6513-4e85-9fd8-a2d022add74d@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-43
@@ -59,20 +60,20 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlas V 551 | Amazon Leo (LA-08)
+SUMMARY:Falcon 9 Block 5 | Sirius SXM-11
 DTSTART:20260630T000000Z
 DTEND:20260630T000000Z
-UID:9eb09815-c237-4fdd-9057-5b161131240c@thespacedevs
+UID:ce3db8f7-ba9b-4a2a-953c-c6c6ee926541@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Sirius SXM-11
-DTSTART:20260630T000000Z
-DTEND:20260630T000000Z
-UID:ce3db8f7-ba9b-4a2a-953c-c6c6ee926541@thespacedevs
+SUMMARY:Atlas V 551 | Amazon Leo (LA-08)
+DTSTART:20260731T000000Z
+DTEND:20260731T000000Z
+UID:9eb09815-c237-4fdd-9057-5b161131240c@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -169,16 +170,6 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New Glenn | Blue Moon Pathfinder
-DTSTART:20260930T000000Z
-DTEND:20260930T000000Z
-UID:98ec4234-8c4e-4365-b6c5-6b89da53f8dd@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vulcan VC6L | Amazon Leo (LV-01)
 DTSTART:20260930T000000Z
 DTEND:20260930T000000Z
@@ -243,6 +234,16 @@ SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-25
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:d74afbc7-0de5-491c-be05-4e9c31f736ac@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:01ca3653-126a-4c01-94fb-a9467b39cdac@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
