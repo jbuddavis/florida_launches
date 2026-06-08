@@ -21,20 +21,20 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)
+DTSTART:20260620T063900Z
+DTEND:20260620T075100Z
+UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
+LOCATION:KSC
+STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #3-5
 DTSTART:20260630T000000Z
 DTEND:20260630T000000Z
 UID:c3f48f48-0e0a-4bca-917e-de494cfca35b@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)
-DTSTART:20260630T000000Z
-DTEND:20260630T000000Z
-UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
