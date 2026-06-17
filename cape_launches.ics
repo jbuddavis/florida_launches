@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #3-5
 DTSTART:20260617T063900Z
 DTEND:20260617T081500Z
 UID:c3f48f48-0e0a-4bca-917e-de494cfca35b@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Project Starfall Demonstration Mission
