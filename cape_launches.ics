@@ -100,6 +100,16 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vulcan VC6L | Amazon Leo (LV-01)
+DTSTART:20260930T000000Z
+DTEND:20260930T000000Z
+UID:ef9850ad-1096-425b-9d27-f7bbd186e61a@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | 5x Astranis MicroGEO
 DTSTART:20260930T000000Z
 DTEND:20260930T000000Z
@@ -134,16 +144,6 @@ SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Tracking Layer B
 DTSTART:20260930T000000Z
 DTEND:20260930T000000Z
 UID:cb1762f0-90f4-4902-a5f6-655a7ade25bf@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vulcan VC6L | Amazon Leo (LV-01)
-DTSTART:20260930T000000Z
-DTEND:20260930T000000Z
-UID:ef9850ad-1096-425b-9d27-f7bbd186e61a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
