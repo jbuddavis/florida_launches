@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Project Starfall Demonstration Mission
-DTSTART:20260621T104300Z
-DTEND:20260621T152600Z
+DTSTART:20260623T104300Z
+DTEND:20260623T122600Z
 UID:74bf8472-9ba1-42d6-9245-b014f8e91de9@thespacedevs
 DESCRIPTION:Awaiting official confirmation - current date is known with so
  me certainty.
@@ -33,8 +33,8 @@ STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Amazon Leo (LA-08)
-DTSTART:20260703T040300Z
-DTEND:20260703T043200Z
+DTSTART:20260702T042400Z
+DTEND:20260702T045300Z
 UID:9eb09815-c237-4fdd-9057-5b161131240c@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
