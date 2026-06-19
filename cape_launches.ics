@@ -4,12 +4,11 @@ PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Project Starfall Demonstration Mission
 DTSTART:20260623T104300Z
-DTEND:20260623T122600Z
+DTEND:20260623T114300Z
 UID:74bf8472-9ba1-42d6-9245-b014f8e91de9@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)
