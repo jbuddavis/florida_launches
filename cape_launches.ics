@@ -11,20 +11,19 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Sirius SXM-11
+DTSTART:20260629T022500Z
+DTEND:20260629T062100Z
+UID:ce3db8f7-ba9b-4a2a-953c-c6c6ee926541@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)
 DTSTART:20260630T000000Z
 DTEND:20260630T000000Z
 UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Sirius SXM-11
-DTSTART:20260630T000000Z
-DTEND:20260630T000000Z
-UID:ce3db8f7-ba9b-4a2a-953c-c6c6ee926541@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
