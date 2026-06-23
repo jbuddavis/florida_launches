@@ -20,16 +20,6 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)
-DTSTART:20260630T000000Z
-DTEND:20260630T000000Z
-UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Amazon Leo (LA-08)
 DTSTART:20260702T042400Z
 DTEND:20260702T045300Z
@@ -43,6 +33,16 @@ SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #6-8
 DTSTART:20260731T000000Z
 DTEND:20260731T000000Z
 UID:56a85c82-ea71-449b-828c-b583f6f4a18b@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)
+DTSTART:20260731T000000Z
+DTEND:20260731T000000Z
+UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
