@@ -6,9 +6,9 @@ SUMMARY:Falcon 9 Block 5 | Project Starfall Demonstration Mission
 DTSTART:20260623T104300Z
 DTEND:20260623T114300Z
 UID:74bf8472-9ba1-42d6-9245-b014f8e91de9@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:Deployment of the payload(s) has been confirmed.
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Payload Deployed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Sirius SXM-11
@@ -29,14 +29,13 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #6-8
-DTSTART:20260731T000000Z
-DTEND:20260731T000000Z
-UID:56a85c82-ea71-449b-828c-b583f6f4a18b@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-50
+DTSTART:20260703T112000Z
+DTEND:20260703T152000Z
+UID:1ef27ca1-af91-48bb-b934-3da5abd9f711@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Determined
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)
@@ -53,6 +52,16 @@ SUMMARY:Falcon Heavy | Nancy Grace Roman Space Telescope
 DTSTART:20260830T000000Z
 DTEND:20260830T000000Z
 UID:521f3a1c-f977-4306-9b7f-495858719adf@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #6-8
+DTSTART:20260831T000000Z
+DTEND:20260831T000000Z
+UID:56a85c82-ea71-449b-828c-b583f6f4a18b@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -233,16 +242,6 @@ SUMMARY:Vulcan VC4L | Dream Chaser CRS 2 Flight 1
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:a67b40f9-cfcc-4614-a355-a156280b4bb3@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 2 (x 8)
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:e61d353c-db55-4a57-8184-0fab187231e6@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
