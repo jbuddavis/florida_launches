@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | Project Starfall Demonstration Mission
 DTSTART:20260623T104300Z
 DTEND:20260623T114300Z
 UID:74bf8472-9ba1-42d6-9245-b014f8e91de9@thespacedevs
-DESCRIPTION:Deployment of the payload(s) has been confirmed.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Payload Deployed
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Sirius SXM-11
