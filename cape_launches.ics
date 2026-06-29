@@ -6,9 +6,9 @@ SUMMARY:Falcon 9 Block 5 | Sirius SXM-11
 DTSTART:20260629T022500Z
 DTEND:20260629T062100Z
 UID:ce3db8f7-ba9b-4a2a-953c-c6c6ee926541@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:Deployment of the payload(s) has been confirmed.
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Payload Deployed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Amazon Leo (LA-08)
