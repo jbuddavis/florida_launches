@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Sirius SXM-11
-DTSTART:20260629T022500Z
-DTEND:20260629T062100Z
-UID:ce3db8f7-ba9b-4a2a-953c-c6c6ee926541@thespacedevs
-DESCRIPTION:Deployment of the payload(s) has been confirmed.
-LOCATION:KSC
-STATUS:Payload Deployed
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Atlas V 551 | Amazon Leo (LA-08)
 DTSTART:20260702T042400Z
 DTEND:20260702T045300Z
@@ -242,6 +233,16 @@ SUMMARY:Vulcan VC4L | Dream Chaser CRS 2 Flight 1
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:a67b40f9-cfcc-4614-a355-a156280b4bb3@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 2 (x 8)
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:e61d353c-db55-4a57-8184-0fab187231e6@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
