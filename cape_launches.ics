@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Atlas V 551 | Amazon Leo (LA-08)
-DTSTART:20260702T042400Z
-DTEND:20260702T045300Z
-UID:9eb09815-c237-4fdd-9057-5b161131240c@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-50
 DTSTART:20260705T103600Z
 DTEND:20260705T143600Z
@@ -244,6 +234,16 @@ SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 2 (x 8)
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:e61d353c-db55-4a57-8184-0fab187231e6@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Astra Rocket 4 | Maiden Flight
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:3ac1bd74-bf9a-4afe-ae00-3e1d180142dd@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
