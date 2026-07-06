@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-50
-DTSTART:20260705T103600Z
-DTEND:20260705T143600Z
-UID:1ef27ca1-af91-48bb-b934-3da5abd9f711@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-42
 DTSTART:20260709T090500Z
 DTEND:20260709T130500Z
@@ -245,6 +235,16 @@ SUMMARY:Astra Rocket 4 | Maiden Flight
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:3ac1bd74-bf9a-4afe-ae00-3e1d180142dd@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlas V N22 | Starliner-1
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:07e945c1-2ec6-4d29-a500-1afbe920440f@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
