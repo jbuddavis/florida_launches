@@ -11,6 +11,15 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Starlink Group 10-45
+DTSTART:20260714T071500Z
+DTEND:20260714T111500Z
+UID:9999a3a3-b15d-4ee3-b70f-acf00d10d912@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)
 DTSTART:20260731T000000Z
 DTEND:20260731T000000Z
@@ -235,16 +244,6 @@ SUMMARY:Astra Rocket 4 | Maiden Flight
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:3ac1bd74-bf9a-4afe-ae00-3e1d180142dd@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atlas V N22 | Starliner-1
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:07e945c1-2ec6-4d29-a500-1afbe920440f@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
