@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-42
-DTSTART:20260709T090500Z
-DTEND:20260709T130500Z
-UID:62d4cd48-ed28-418b-b58c-526781a50a39@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-45
 DTSTART:20260714T071500Z
 DTEND:20260714T111500Z
@@ -245,6 +235,16 @@ SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-22
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:4d3943e9-c894-46c4-a318-84d526d0ef40@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Telesat Lightspeed 2
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:428edcbe-bbd7-4475-8eb1-3dd90b39ad75@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
