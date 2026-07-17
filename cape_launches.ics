@@ -15,10 +15,9 @@ SUMMARY:Falcon Heavy | Nancy Grace Roman Space Telescope
 DTSTART:20260830T112000Z
 DTEND:20260830T112000Z
 UID:521f3a1c-f977-4306-9b7f-495858719adf@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #6-8
@@ -75,26 +74,6 @@ SUMMARY:Vulcan VC6L | Amazon Leo (LV-01)
 DTSTART:20260930T000000Z
 DTEND:20260930T000000Z
 UID:ef9850ad-1096-425b-9d27-f7bbd186e61a@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Tracking Layer A
-DTSTART:20260930T000000Z
-DTEND:20260930T000000Z
-UID:0a07a23e-606a-4589-bf3e-c3e41bd4de51@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Tracking Layer B
-DTSTART:20260930T000000Z
-DTEND:20260930T000000Z
-UID:cb1762f0-90f4-4902-a5f6-655a7ade25bf@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -225,6 +204,26 @@ SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-22
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:4d3943e9-c894-46c4-a318-84d526d0ef40@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Tracking Layer A
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:0a07a23e-606a-4589-bf3e-c3e41bd4de51@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Tracking Layer B
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:cb1762f0-90f4-4902-a5f6-655a7ade25bf@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
