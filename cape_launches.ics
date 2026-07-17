@@ -11,24 +11,14 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)
-DTSTART:20260731T000000Z
-DTEND:20260731T000000Z
-UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon Heavy | Nancy Grace Roman Space Telescope
-DTSTART:20260830T000000Z
-DTEND:20260830T000000Z
+DTSTART:20260830T112000Z
+DTEND:20260830T112000Z
 UID:521f3a1c-f977-4306-9b7f-495858719adf@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
 LOCATION:KSC
-STATUS:To Be Determined
+STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #6-8
@@ -45,6 +35,16 @@ SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-35
 DTSTART:20260831T000000Z
 DTEND:20260831T000000Z
 UID:bf2c3027-a314-403e-a416-2bfd5d165ad1@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)
+DTSTART:20260831T000000Z
+DTEND:20260831T000000Z
+UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
