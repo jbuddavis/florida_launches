@@ -30,16 +30,6 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-35
-DTSTART:20260831T000000Z
-DTEND:20260831T000000Z
-UID:bf2c3027-a314-403e-a416-2bfd5d165ad1@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)
 DTSTART:20260831T000000Z
 DTEND:20260831T000000Z
@@ -134,6 +124,16 @@ SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-25
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:d74afbc7-0de5-491c-be05-4e9c31f736ac@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-35
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:bf2c3027-a314-403e-a416-2bfd5d165ad1@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
