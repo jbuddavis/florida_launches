@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | MRV-1
 DTSTART:20260721T211500Z
 DTEND:20260722T010400Z
 UID:0f6780cf-edae-4d7c-99d6-ce7de784d140@thespacedevs
-DESCRIPTION:Deployment of the payload(s) has been confirmed.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Payload Deployed
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | NROL-95
