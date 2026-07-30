@@ -6,12 +6,12 @@ SUMMARY:Falcon 9 Block 5 | NROL-95
 DTSTART:20260730T063700Z
 DTEND:20260730T072100Z
 UID:24675e3d-2458-48a3-8c70-5196e44d4dc3@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle has lifted off from the launchpad.
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch in Flight
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | BlueBird Block 2 #6-8
+SUMMARY:Falcon 9 Block 5 | BlueBird 11-13 (Block 2 #6-8)
 DTSTART:20260805T074200Z
 DTEND:20260805T091800Z
 UID:56a85c82-ea71-449b-828c-b583f6f4a18b@thespacedevs
