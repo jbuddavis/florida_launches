@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | NROL-95
 DTSTART:20260730T063700Z
 DTEND:20260730T072100Z
 UID:24675e3d-2458-48a3-8c70-5196e44d4dc3@thespacedevs
-DESCRIPTION:The launch vehicle has lifted off from the launchpad.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Launch in Flight
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | BlueBird 11-13 (Block 2 #6-8)
