@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | NROL-95
-DTSTART:20260730T063700Z
-DTEND:20260730T072100Z
-UID:24675e3d-2458-48a3-8c70-5196e44d4dc3@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | BlueBird 11-13 (Block 2 #6-8)
 DTSTART:20260805T074200Z
 DTEND:20260805T091800Z
@@ -243,6 +233,16 @@ SUMMARY:Falcon 9 Block 5 | Telesat Lightspeed 2
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:428edcbe-bbd7-4475-8eb1-3dd90b39ad75@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Telesat Lightspeed 3
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:d6615c37-dcef-45d1-96c1-3d1a5250bf13@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
