@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | BlueBird 11-13 (Block 2 #6-8)
 DTSTART:20260805T074200Z
 DTEND:20260805T091800Z
 UID:56a85c82-ea71-449b-828c-b583f6f4a18b@thespacedevs
-DESCRIPTION:The launch vehicle has lifted off from the launchpad.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Launch in Flight
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-19
