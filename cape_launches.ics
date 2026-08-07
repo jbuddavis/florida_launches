@@ -79,6 +79,16 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-25
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:d74afbc7-0de5-491c-be05-4e9c31f736ac@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
@@ -103,16 +113,6 @@ SUMMARY:Falcon 9 Block 5 | CHORUS
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:8bf5f61e-a7e1-41e6-aede-7b87e4beebab@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-25
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:d74afbc7-0de5-491c-be05-4e9c31f736ac@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
