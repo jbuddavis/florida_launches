@@ -21,8 +21,8 @@ STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-49
-DTSTART:20260825T110000Z
-DTEND:20260825T150000Z
+DTSTART:20260825T054900Z
+DTEND:20260825T094900Z
 UID:ad501ebd-a357-4305-90c1-c46c6feb2ecf@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
@@ -71,16 +71,6 @@ SUMMARY:Falcon Heavy | Griffin Mission One
 DTSTART:20261130T000000Z
 DTEND:20261130T000000Z
 UID:d3bd7fb2-fac6-49fc-ae52-cee07d2fde67@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Blue Ghost Lunar Lander Mission 2
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:387aadc6-68ca-4090-9be7-d57603ad7c79@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -241,6 +231,16 @@ SUMMARY:Falcon 9 Block 5 | Telesat Lightspeed 4
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:adfc829a-6704-4d9e-b2ca-1068c38b2b83@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Telesat Lightspeed 5
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:98b905bb-4060-40a2-b299-2773b6883203@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
