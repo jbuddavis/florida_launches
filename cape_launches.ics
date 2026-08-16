@@ -2,13 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)
+SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 8)
 DTSTART:20260816T011200Z
 DTEND:20260816T012700Z
 UID:be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Starlink Group 10-39
@@ -147,7 +148,7 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 2 (x 8)
+SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 2 (x 9)
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:e61d353c-db55-4a57-8184-0fab187231e6@thespacedevs
