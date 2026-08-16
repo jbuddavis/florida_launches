@@ -68,6 +68,16 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-35
+DTSTART:20261031T000000Z
+DTEND:20261031T000000Z
+UID:bf2c3027-a314-403e-a416-2bfd5d165ad1@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon Heavy | Griffin Mission One
 DTSTART:20261130T000000Z
 DTEND:20261130T000000Z
@@ -112,16 +122,6 @@ SUMMARY:Falcon 9 Block 5 | CHORUS
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:8bf5f61e-a7e1-41e6-aede-7b87e4beebab@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-35
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:bf2c3027-a314-403e-a416-2bfd5d165ad1@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
