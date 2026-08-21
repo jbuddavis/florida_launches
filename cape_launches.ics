@@ -58,6 +58,17 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshar
+ e)
+DTSTART:20261031T000000Z
+DTEND:20261031T000000Z
+UID:3b430f81-0ff1-4d85-8a1a-cef0de326198@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-35
 DTSTART:20261031T000000Z
 DTEND:20261031T000000Z
@@ -232,16 +243,6 @@ SUMMARY:Falcon 9 Block 5 | Telesat Lightspeed 5
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:98b905bb-4060-40a2-b299-2773b6883203@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Telesat Lightspeed 6
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:ad00f137-39e4-4780-be30-443020b2a5aa@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
