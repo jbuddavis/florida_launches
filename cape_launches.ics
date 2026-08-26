@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Starlink Group 10-49
-DTSTART:20260825T054900Z
-DTEND:20260825T094900Z
-UID:ad501ebd-a357-4305-90c1-c46c6feb2ecf@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon Heavy | Nancy Grace Roman Space Telescope
 DTSTART:20260830T112600Z
 DTEND:20260830T112600Z
@@ -245,6 +235,16 @@ SUMMARY:Falcon 9 Block 5 | Telesat Lightspeed 6
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:ad00f137-39e4-4780-be30-443020b2a5aa@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Telesat Lightspeed 7
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:1ce39fa1-5f79-4d7b-9aa9-9a5aad74a46a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
