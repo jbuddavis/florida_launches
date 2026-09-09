@@ -3,13 +3,12 @@ VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | O3b mPower 11-13
-DTSTART:20260913T185000Z
-DTEND:20260913T202700Z
+DTSTART:20260913T184900Z
+DTEND:20260913T201600Z
 UID:ad358a4d-c541-409b-9366-9c2f2da4aeb9@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Crew-13
