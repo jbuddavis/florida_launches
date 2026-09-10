@@ -162,6 +162,16 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | 5x Astranis MicroGEO
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:9bfa0324-db74-444f-8dc3-1c7d373ca659@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-22
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
@@ -236,16 +246,6 @@ SUMMARY:Falcon 9 Block 5 | Telesat Lightspeed 6
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:ad00f137-39e4-4780-be30-443020b2a5aa@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Telesat Lightspeed 7
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:1ce39fa1-5f79-4d7b-9aa9-9a5aad74a46a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
