@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | O3b mPower 11-13
 DTSTART:20260913T184900Z
 DTEND:20260913T201600Z
 UID:ad358a4d-c541-409b-9366-9c2f2da4aeb9@thespacedevs
-DESCRIPTION:Deployment of the payload(s) has been confirmed.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Payload Deployed
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Crew-13
