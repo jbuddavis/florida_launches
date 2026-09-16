@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Crew-13
-DTSTART:20260930T000000Z
-DTEND:20260930T000000Z
-UID:18441371-8b2e-457c-afb5-1ec1b11ab630@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vulcan VC6L | Amazon Leo (LV-01)
 DTSTART:20260930T000000Z
 DTEND:20260930T000000Z
@@ -27,6 +17,16 @@ SUMMARY:Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshar
 DTSTART:20261031T000000Z
 DTEND:20261031T000000Z
 UID:3b430f81-0ff1-4d85-8a1a-cef0de326198@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Crew-13
+DTSTART:20261031T000000Z
+DTEND:20261031T000000Z
+UID:18441371-8b2e-457c-afb5-1ec1b11ab630@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -127,16 +127,6 @@ SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 2 (x 9)
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:e61d353c-db55-4a57-8184-0fab187231e6@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Astra Rocket 4 | Maiden Flight
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:3ac1bd74-bf9a-4afe-ae00-3e1d180142dd@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -247,6 +237,16 @@ SUMMARY:Falcon 9 Block 5 | Telesat Lightspeed 7
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:1ce39fa1-5f79-4d7b-9aa9-9a5aad74a46a@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | USSF-31
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:4c78e865-8f03-4f47-a081-b507da270d19@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
