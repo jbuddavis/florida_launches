@@ -12,21 +12,21 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Crew-13
+DTSTART:20261001T151006Z
+DTEND:20261001T151006Z
+UID:18441371-8b2e-457c-afb5-1ec1b11ab630@thespacedevs
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
+LOCATION:KSC
+STATUS:To Be Confirmed
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshar
  e)
 DTSTART:20261031T000000Z
 DTEND:20261031T000000Z
 UID:3b430f81-0ff1-4d85-8a1a-cef0de326198@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Crew-13
-DTSTART:20261031T000000Z
-DTEND:20261031T000000Z
-UID:18441371-8b2e-457c-afb5-1ec1b11ab630@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
