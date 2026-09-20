@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Vulcan VC6L | Amazon Leo (LV-01)
-DTSTART:20260930T000000Z
-DTEND:20260930T000000Z
-UID:ef9850ad-1096-425b-9d27-f7bbd186e61a@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Crew-13
 DTSTART:20261001T151006Z
 DTEND:20261001T151006Z
@@ -37,6 +27,16 @@ SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-35
 DTSTART:20261031T000000Z
 DTEND:20261031T000000Z
 UID:bf2c3027-a314-403e-a416-2bfd5d165ad1@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan VC6L | Amazon Leo (LV-01)
+DTSTART:20261031T000000Z
+DTEND:20261031T000000Z
+UID:ef9850ad-1096-425b-9d27-f7bbd186e61a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -143,16 +143,6 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | 5x Astranis MicroGEO
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:9bfa0324-db74-444f-8dc3-1c7d373ca659@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-22
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
@@ -247,6 +237,16 @@ SUMMARY:Falcon 9 Block 5 | USSF-31
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:4c78e865-8f03-4f47-a081-b507da270d19@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | VICTUS SURGO
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:fc1bd321-e502-4d0f-81f4-1926dece81c6@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
