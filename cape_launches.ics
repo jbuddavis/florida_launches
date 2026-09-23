@@ -6,10 +6,9 @@ SUMMARY:Falcon 9 Block 5 | Crew-13
 DTSTART:20261001T151006Z
 DTEND:20261001T151006Z
 UID:18441371-8b2e-457c-afb5-1ec1b11ab630@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshar
