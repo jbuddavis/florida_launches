@@ -11,6 +11,15 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon Heavy | NROL-97
+DTSTART:20261002T035300Z
+DTEND:20261002T035300Z
+UID:4651fd8a-43de-4166-bf8f-c168b3bd1d2c@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshar
  e)
 DTSTART:20261031T000000Z
@@ -36,16 +45,6 @@ SUMMARY:Vulcan VC6L | Amazon Leo (LV-01)
 DTSTART:20261031T000000Z
 DTEND:20261031T000000Z
 UID:ef9850ad-1096-425b-9d27-f7bbd186e61a@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon Heavy | NROL-97
-DTSTART:20261031T000000Z
-DTEND:20261031T000000Z
-UID:4651fd8a-43de-4166-bf8f-c168b3bd1d2c@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
