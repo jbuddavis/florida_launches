@@ -6,9 +6,10 @@ SUMMARY:Falcon 9 Block 5 | Crew-13
 DTSTART:20261001T151006Z
 DTEND:20261001T151006Z
 UID:18441371-8b2e-457c-afb5-1ec1b11ab630@thespacedevs
-DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
+ he target orbit(s).
 LOCATION:KSC
-STATUS:Go for Launch
+STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon Heavy | NROL-97
@@ -51,16 +52,6 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon Heavy | Griffin Mission One
-DTSTART:20261130T000000Z
-DTEND:20261130T000000Z
-UID:d3bd7fb2-fac6-49fc-ae52-cee07d2fde67@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Atlas V N22 | Starliner-1
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
@@ -95,6 +86,16 @@ SUMMARY:Falcon 9 Block 5 | Telesat Lightspeed 1
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:ce1317de-ec94-4479-9b28-38ebf11f13ae@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon Heavy | Griffin Mission One
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:d3bd7fb2-fac6-49fc-ae52-cee07d2fde67@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
