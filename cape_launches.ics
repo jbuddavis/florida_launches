@@ -13,13 +13,12 @@ STATUS:Launch Successful
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Dragon CRS-2 SpX-35
-DTSTART:20261013T103300Z
-DTEND:20261013T103300Z
+DTSTART:20261013T103344Z
+DTEND:20261013T103344Z
 UID:bf2c3027-a314-403e-a416-2bfd5d165ad1@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshar
