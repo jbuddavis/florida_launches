@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Crew-13
-DTSTART:20261001T151006Z
-DTEND:20261001T151006Z
-UID:18441371-8b2e-457c-afb5-1ec1b11ab630@thespacedevs
-DESCRIPTION:The launch vehicle successfully inserted its payload(s) into t
- he target orbit(s).
-LOCATION:KSC
-STATUS:Launch Successful
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon Heavy | NROL-97
 DTSTART:20261002T035300Z
 DTEND:20261002T044200Z
@@ -247,6 +237,16 @@ SUMMARY:Falcon 9 Block 5 | VICTUS SURGO
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:fc1bd321-e502-4d0f-81f4-1926dece81c6@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon Heavy | USSF-75
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:c1bd775a-2fff-45bb-9726-765b69817c19@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
