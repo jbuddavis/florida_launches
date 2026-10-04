@@ -32,20 +32,20 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atlas V N22 | Starliner-1
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:07e945c1-2ec6-4d29-a500-1afbe920440f@thespacedevs
+SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-25
+DTSTART:20261130T000000Z
+DTEND:20261130T000000Z
+UID:d74afbc7-0de5-491c-be05-4e9c31f736ac@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-25
+SUMMARY:Atlas V N22 | Starliner-1
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
-UID:d74afbc7-0de5-491c-be05-4e9c31f736ac@thespacedevs
+UID:07e945c1-2ec6-4d29-a500-1afbe920440f@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
