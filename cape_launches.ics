@@ -11,21 +11,21 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshar
- e)
-DTSTART:20261031T000000Z
-DTEND:20261031T000000Z
-UID:3b430f81-0ff1-4d85-8a1a-cef0de326198@thespacedevs
+SUMMARY:Vulcan VC6L | Amazon Leo (LV-01)
+DTSTART:20261029T000000Z
+DTEND:20261029T000000Z
+UID:ef9850ad-1096-425b-9d27-f7bbd186e61a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vulcan VC6L | Amazon Leo (LV-01)
+SUMMARY:Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshar
+ e)
 DTSTART:20261031T000000Z
 DTEND:20261031T000000Z
-UID:ef9850ad-1096-425b-9d27-f7bbd186e61a@thespacedevs
+UID:3b430f81-0ff1-4d85-8a1a-cef0de326198@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
