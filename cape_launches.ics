@@ -72,6 +72,16 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:New Glenn | Blue Ring-1
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:a5e81552-ecdd-4d89-b6bd-b594e22ca891@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | CHORUS
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
@@ -236,16 +246,6 @@ SUMMARY:New Glenn | Amazon Leo (LN-01)
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:ca3d56b7-2175-48e4-9a6a-2ecc9996d96b@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New Glenn | BlueBird Block 2
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:f0460950-3cb6-4889-8cbe-707f063d0565@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
