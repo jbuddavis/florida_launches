@@ -4,8 +4,8 @@ PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshar
  e)
-DTSTART:20261019T103000Z
-DTEND:20261019T113000Z
+DTSTART:20261020T103000Z
+DTEND:20261020T113000Z
 UID:3b430f81-0ff1-4d85-8a1a-cef0de326198@thespacedevs
 DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
