@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-25
-DTSTART:20261130T000000Z
-DTEND:20261130T000000Z
-UID:d74afbc7-0de5-491c-be05-4e9c31f736ac@thespacedevs
+SUMMARY:Vulcan VC6L | Amazon Leo (LV-01)
+DTSTART:20261113T000000Z
+DTEND:20261113T000000Z
+UID:ef9850ad-1096-425b-9d27-f7bbd186e61a@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vulcan VC6L | Amazon Leo (LV-01)
+SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-25
 DTSTART:20261130T000000Z
 DTEND:20261130T000000Z
-UID:ef9850ad-1096-425b-9d27-f7bbd186e61a@thespacedevs
+UID:d74afbc7-0de5-491c-be05-4e9c31f736ac@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
