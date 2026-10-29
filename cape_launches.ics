@@ -13,29 +13,19 @@ STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-25
-DTSTART:20261130T000000Z
-DTEND:20261130T000000Z
+DTSTART:20261129T160000Z
+DTEND:20261129T160000Z
 UID:d74afbc7-0de5-491c-be05-4e9c31f736ac@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
+DESCRIPTION:Awaiting official confirmation - current date is known with so
+ me certainty.
 LOCATION:KSC
-STATUS:To Be Determined
+STATUS:To Be Confirmed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:71df1dd0-d658-4762-b0bc-0fca6886aea7@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Telesat Lightspeed 1
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:ce1317de-ec94-4479-9b28-38ebf11f13ae@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -246,6 +236,16 @@ SUMMARY:Vulcan | NROL-64
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:ac92d963-ebfb-4d18-b48c-04102d8dce8e@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan | SILENTBARKER 2/NROL-118
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:eb8cbca7-5ae6-430c-8ff6-0f672cfb5bd0@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
