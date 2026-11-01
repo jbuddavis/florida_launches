@@ -32,16 +32,6 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon Heavy | Griffin Mission One
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:d3bd7fb2-fac6-49fc-ae52-cee07d2fde67@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:New Glenn | Blue Ring-1
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
@@ -246,6 +236,16 @@ SUMMARY:Vulcan | SILENTBARKER 2/NROL-118
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:eb8cbca7-5ae6-430c-8ff6-0f672cfb5bd0@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan | USSF-16
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:d40b57ec-e294-4aa2-9822-33eb222105cb@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
