@@ -13,13 +13,12 @@ STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-25
-DTSTART:20261129T160000Z
-DTEND:20261129T160000Z
+DTSTART:20261129T154900Z
+DTEND:20261129T154900Z
 UID:d74afbc7-0de5-491c-be05-4e9c31f736ac@thespacedevs
-DESCRIPTION:Awaiting official confirmation - current date is known with so
- me certainty.
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
 LOCATION:KSC
-STATUS:To Be Confirmed
+STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D
