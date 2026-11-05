@@ -20,20 +20,30 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D
+SUMMARY:Falcon 9 Block 5 | CHORUS
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
-UID:71df1dd0-d658-4762-b0bc-0fca6886aea7@thespacedevs
+UID:8bf5f61e-a7e1-41e6-aede-7b87e4beebab@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New Glenn | Blue Ring-1
+SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 2 (x 9)
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
-UID:a5e81552-ecdd-4d89-b6bd-b594e22ca891@thespacedevs
+UID:e61d353c-db55-4a57-8184-0fab187231e6@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:71df1dd0-d658-4762-b0bc-0fca6886aea7@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -50,40 +60,10 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | CHORUS
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:8bf5f61e-a7e1-41e6-aede-7b87e4beebab@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:01ca3653-126a-4c01-94fb-a9467b39cdac@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vulcan VC4L | Dream Chaser CRS 2 Flight 1
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:a67b40f9-cfcc-4614-a355-a156280b4bb3@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | Globalstar 2-R Mission 2 (x 9)
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:e61d353c-db55-4a57-8184-0fab187231e6@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
@@ -244,6 +224,26 @@ SUMMARY:Vulcan | USSF-16
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:d40b57ec-e294-4aa2-9822-33eb222105cb@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan | USSF-23
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:06201706-da6b-467e-83b2-ef2ff8596e05@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan | USSF-43
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:d055f3cc-ef83-4229-98df-73bf68e67581@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
