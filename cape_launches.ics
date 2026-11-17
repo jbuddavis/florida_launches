@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Cape Launch Feed//github.com/you//
 BEGIN:VEVENT
-SUMMARY:Vulcan VC6L | Amazon Leo (LV-01)
-DTSTART:20261115T171130Z
-DTEND:20261115T174030Z
-UID:ef9850ad-1096-425b-9d27-f7bbd186e61a@thespacedevs
-DESCRIPTION:Either the launch vehicle did not reach orbit\, or the payload
- (s) failed to separate.
-LOCATION:KSC
-STATUS:Launch Failure
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Cygnus CRS-2 NG-25
 DTSTART:20261129T154700Z
 DTEND:20261129T154700Z
@@ -245,6 +235,16 @@ SUMMARY:Vulcan | USSF-57
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:b32689fe-b156-4ccd-b824-fd555d12ba24@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vulcan | WGS-11
+DTSTART:20261231T000000Z
+DTEND:20261231T000000Z
+UID:649bf8ed-f2a6-4923-aaf0-6086ad0227f5@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
