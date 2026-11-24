@@ -101,46 +101,6 @@ LOCATION:KSC
 STATUS:To Be Determined
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Terran R | Intelsat-1
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:2e37a196-f5f8-4496-96ae-63f4b6b27912@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terran R | Mars Lander
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:b97a54e5-5c6f-4f85-bcf3-69da17fa9682@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unknown | Owlet-01
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:b3a7aacd-4f23-45a8-aa6c-da9f34804452@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unknown | VCLS Demo 2 Mission One
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:581d1d85-bbe8-48f1-9dac-5b4e63503896@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vulcan | NROL-109
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
@@ -245,6 +205,46 @@ SUMMARY:Atlas V N22 | Starliner-1
 DTSTART:20270114T000000Z
 DTEND:20270114T000000Z
 UID:07e945c1-2ec6-4d29-a500-1afbe920440f@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | Axiom Space Mission 5
+DTSTART:20270131T000000Z
+DTEND:20270131T000000Z
+UID:de3d5d91-f115-4a86-b923-203a91a08735@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | SDA Tranche 2 Transport Layer C
+DTSTART:20270131T000000Z
+DTEND:20270131T000000Z
+UID:542a51bb-2351-48b9-98c5-9db130fb4c29@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Glenn | Blue Ring-1
+DTSTART:20270131T000000Z
+DTEND:20270131T000000Z
+UID:a5e81552-ecdd-4d89-b6bd-b594e22ca891@thespacedevs
+DESCRIPTION:Current date is a placeholder or rough estimation based on unr
+ eliable or interpreted sources.
+LOCATION:KSC
+STATUS:To Be Determined
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | SICRAL 3A
+DTSTART:20270228T000000Z
+DTEND:20270228T000000Z
+UID:8d066e3a-ed12-4997-a5f4-3bc13cf5c8a2@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
