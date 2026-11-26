@@ -11,20 +11,19 @@ LOCATION:KSC
 STATUS:Go for Launch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Falcon 9 Block 5 | CHORUS
+DTSTART:20261204T125500Z
+DTEND:20261204T132400Z
+UID:8bf5f61e-a7e1-41e6-aede-7b87e4beebab@thespacedevs
+DESCRIPTION:Current T-0 confirmed by official or reliable sources.
+LOCATION:KSC
+STATUS:Go for Launch
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Falcon 9 Block 5 | Amazon Leo (LF-04)
 DTSTART:20261231T000000Z
 DTEND:20261231T000000Z
 UID:9b9db235-8ffb-4569-b09b-0e852ad231a0@thespacedevs
-DESCRIPTION:Current date is a placeholder or rough estimation based on unr
- eliable or interpreted sources.
-LOCATION:KSC
-STATUS:To Be Determined
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falcon 9 Block 5 | CHORUS
-DTSTART:20261231T000000Z
-DTEND:20261231T000000Z
-UID:8bf5f61e-a7e1-41e6-aede-7b87e4beebab@thespacedevs
 DESCRIPTION:Current date is a placeholder or rough estimation based on unr
  eliable or interpreted sources.
 LOCATION:KSC
